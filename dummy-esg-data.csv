@@ -1,0 +1,723 @@
+ticker,name,currency,exchange,industry,cik,environment_grade,environment_level,social_grade,social_level,governance_grade,governance_level,environment_score,social_score,governance_score,total_score,total_grade,total_level
+dis,Walt Disney Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Media,1744489,AA,Excellent,A,Excellent,C,High,534,292,358,1065,BBB,Medium
+gm,General Motors Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Automobiles,1467858,AA,Medium,BB,Low,C,Medium,238,515,370,1143,BBB,Medium
+gww,WW Grainger Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Trading Companies and Distributors,277135,A,Medium,AA,Low,B,Medium,220,399,275,692,BB,Medium
+mhk,Mohawk Industries Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,851968,AA,High,AA,Medium,B,Low,485,218,320,1282,BB,High
+lyv,Live Nation Entertainment Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Media,1335258,BBB,Excellent,BBB,Medium,C,Low,459,205,316,652,BB,High
+lvs,Las Vegas Sands Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,1300514,A,Medium,BB,High,C,High,299,362,75,628,A,High
+clx,Clorox Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,21076,BB,High,CCC,Low,C,Low,299,204,475,980,BBB,Medium
+aacg,ATA Creativity Global,CNY,NASDAQ NMS - GLOBAL MARKET,Diversified Consumer Services,1420529,BBB,Excellent,CCC,Low,BB,Low,455,317,277,802,BBB,High
+aal,American Airlines Group Inc,USD,NASDAQ NMS - GLOBAL MARKET,Airlines,6201,AA,High,B,Excellent,C,Low,568,258,260,1180,BBB,High
+aame,Atlantic American Corp,USD,NASDAQ NMS - GLOBAL MARKET,Insurance,8177,B,High,AA,High,BBB,Low,604,348,285,1107,A,High
+aaoi,Applied Optoelectronics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Communications,1158114,A,High,B,Low,B,Medium,610,346,237,873,BB,Medium
+aaon,Aaon Inc,USD,NASDAQ NMS - GLOBAL MARKET,Building,824142,BBB,Excellent,BBB,High,BBB,Low,615,325,240,752,A,High
+aapl,Apple Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,320193,B,High,BBB,High,BB,High,375,260,228,1133,A,Medium
+aatc,Autoscope Technologies Corp,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,943034,B,Excellent,A,Medium,BB,High,265,315,295,1131,B,Medium
+aaww,Atlas Air Worldwide Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Logistics and Transportation,1135185,A,High,A,High,C,High,560,213,348,899,A,High
+aaci,Armada Acquisition Corp I,USD,NASDAQ NMS - GLOBAL MARKET,,1844817,BB,Medium,A,Low,BBB,Medium,363,262,75,891,BB,Medium
+aadi,Aadi Bioscience Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1422142,AA,High,BB,Medium,B,Low,700,385,240,680,B,High
+abeo,Abeona Therapeutics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,318306,AA,High,B,Low,C,Low,485,324,305,742,A,Medium
+abnb,Airbnb Inc,USD,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,1559720,A,Excellent,BBB,Low,BB,Low,311,254,364,939,A,High
+abio,ARCA Biopharma Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,907654,BB,Medium,BBB,Excellent,BB,Low,543,222,223,1207,A,High
+abmd,ABIOMED Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,815094,BBB,High,B,Low,BB,Medium,513,253,75,768,B,High
+abos,Acumen Pharmaceuticals Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1576885,B,Excellent,BBB,Excellent,BB,High,336,289,210,1151,B,Medium
+absi,Absci Corp,USD,NASDAQ NMS - GLOBAL MARKET,Life Sciences Tools and Services,1672688,BBB,High,BBB,Medium,BBB,Low,495,386,345,845,A,Medium
+abtx,Allegiance Bancshares Inc,USD,NASDAQ NMS - GLOBAL MARKET,Banking,1642081,BBB,High,BB,Low,B,Low,578,372,348,673,B,High
+abus,Arbutus Biopharma Corp,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1447028,B,Excellent,BB,Medium,BBB,Medium,532,216,216,629,BB,High
+abvc,ABVC Biopharma Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1173313,AA,Excellent,A,Excellent,B,High,390,281,226,1340,A,High
+acad,ACADIA Pharmaceuticals Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1070494,BBB,Medium,BB,Medium,BB,Medium,377,261,278,642,A,Medium
+acac,Acri Capital Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,1914023,BB,Excellent,CCC,Low,BBB,Low,330,232,221,937,BBB,Medium
+accd,Accolade Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1481646,BB,Excellent,B,High,BBB,Low,405,252,305,1125,BB,Medium
+acet,Adicet Bio Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1720580,AA,Excellent,A,Medium,B,Low,410,389,255,704,BBB,High
+abcl,Abcellera Biologics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Life Sciences Tools and Services,1703057,A,Medium,B,Excellent,BB,Medium,240,340,330,1433,BB,High
+abcb,Ameris Bancorp,USD,NASDAQ NMS - GLOBAL MARKET,Banking,351569,AA,Medium,BBB,Excellent,B,Low,535,438,347,933,BB,High
+acev,ACE Convergence Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,1813658,AA,High,BB,Excellent,C,Medium,585,372,218,1204,BB,Medium
+achl,Achilles Therapeutics PLC,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1830749,B,Medium,BB,Low,BB,High,222,422,375,958,BB,High
+achc,Acadia Healthcare Company Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1520697,BB,Medium,B,High,B,Low,365,316,303,1078,B,Medium
+aciw,ACI Worldwide Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,935036,BB,Medium,BB,Excellent,C,Low,555,215,305,1091,BB,Medium
+acls,Axcelis Technologies Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,1113232,A,Excellent,BBB,High,B,High,589,303,333,1022,BBB,Medium
+aciu,AC Immune SA,CHF,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1651625,BBB,High,AA,High,BBB,High,608,281,308,1023,BBB,High
+achv,Achieve Life Sciences Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,949858,BBB,Medium,BBB,Medium,B,Low,580,225,370,1122,B,Medium
+acmr,ACM Research Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,1680062,AA,Medium,B,Low,B,High,382,316,228,1182,BBB,Medium
+acor,Acorda Therapeutics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1008848,AA,High,B,Excellent,B,Medium,604,391,215,1164,BB,High
+acnb,ACNB Corp,USD,NASDAQ NMS - GLOBAL MARKET,Banking,715579,BB,Excellent,B,Low,BBB,High,275,205,243,1408,BB,Medium
+acrs,Aclaris Therapeutics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,1557746,B,High,AA,Excellent,B,High,646,544,265,1162,BB,High
+acrx,AcelRx Pharmaceuticals Inc,USD,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,1427925,B,Excellent,CCC,Medium,BB,Medium,462,403,338,734,BB,Medium
+act,Enact Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Financial Services,1823529,AA,Excellent,BB,High,BBB,Low,365,288,250,912,B,Medium
+actg,Acacia Research Corp,USD,NASDAQ NMS - GLOBAL MARKET,Financial Services,934549,BB,Excellent,B,Low,C,High,537,327,475,1152,BB,Medium
+acva,ACV Auctions Inc,USD,NASDAQ NMS - GLOBAL MARKET,Commercial Services and Supplies,1637873,A,Medium,BB,Low,BBB,High,583,264,226,1166,BB,Medium
+adag,Adagene Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1818838,A,High,B,High,BBB,Low,668,207,233,1182,BB,High
+acxp,Acurx Pharmaceuticals Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1736243,AA,High,A,Excellent,B,Medium,715,389,375,709,BBB,High
+adbe,Adobe Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,796343,BBB,Medium,CCC,Excellent,BB,High,646,340,277,810,BBB,Medium
+adap,Adaptimmune Therapeutics PLC,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1621227,BBB,Medium,AA,High,BBB,Low,298,285,255,940,BBB,Medium
+adma,ADMA Biologics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1368514,A,High,A,Medium,C,Low,222,347,341,745,B,High
+ades,Advanced Emissions Solutions Inc,USD,NASDAQ NMS - GLOBAL MARKET,Chemicals,1515156,AA,Excellent,CCC,High,BBB,High,522,351,460,1124,B,High
+adi,Analog Devices Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,6281,A,High,BBB,High,BB,Low,287,256,370,1121,BBB,Medium
+adil,Adial Pharmaceuticals Inc,USD,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,1513525,BBB,Medium,B,High,BB,Medium,308,217,345,853,B,High
+admp,Adamis Pharmaceuticals Corp,USD,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,887247,B,High,A,High,BBB,Low,455,280,330,1259,B,Medium
+acer,Acer Therapeutics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,1069308,AA,Excellent,AA,Excellent,BB,Medium,519,260,290,762,BBB,Medium
+adoc,Edoc Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,1824884,BBB,Medium,BB,High,BB,High,459,269,313,1528,BB,High
+adus,Addus Homecare Corp,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1468328,BB,Medium,BBB,Low,B,Low,320,443,460,640,BB,Medium
+acgl,Arch Capital Group Ltd,USD,NASDAQ NMS - GLOBAL MARKET,Insurance,947484,BBB,High,BBB,Medium,B,High,298,313,345,1151,A,High
+adpt,Adaptive Biotechnologies Corp,USD,NASDAQ NMS - GLOBAL MARKET,Life Sciences Tools and Services,1478320,BBB,Excellent,AA,Low,BBB,Medium,646,326,316,646,B,High
+adsk,Autodesk Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,769397,A,High,B,Low,B,Medium,220,231,220,1058,A,High
+adp,Automatic Data Processing Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,8670,AA,High,BBB,Excellent,B,Medium,675,412,320,1189,A,Medium
+adtx,Aditxt Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1726711,AA,Excellent,BB,Low,C,Low,477,364,255,1208,B,High
+adv,Advantage Solutions Inc,USD,NASDAQ NMS - GLOBAL MARKET,Media,1776661,A,Medium,BBB,Medium,BBB,Medium,264,379,243,1340,B,Medium
+advm,Adverum Biotechnologies Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1501756,BBB,High,AA,Medium,B,Medium,260,323,375,1260,BBB,High
+aehr,Aehr Test Systems,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,1040470,BBB,Excellent,AA,Low,BBB,High,525,237,340,1239,B,High
+aehl,Antelope Enterprise Holdings Ltd,CNY,NASDAQ NMS - GLOBAL MARKET,Building,1470683,A,Medium,A,Medium,C,Medium,534,403,365,623,BB,Medium
+aei,Alset Ehome International Inc,USD,NASDAQ NMS - GLOBAL MARKET,Real Estate,1750106,AA,High,B,Low,BBB,Low,480,278,230,1062,BB,High
+aeis,Advanced Energy Industries Inc,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,927003,B,Medium,A,High,C,High,560,217,340,1076,BBB,Medium
+aep,American Electric Power Company Inc,USD,NASDAQ NMS - GLOBAL MARKET,Utilities,4904,BBB,Excellent,BBB,High,BBB,Medium,240,285,228,835,BB,Medium
+aemd,Aethlon Medical Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,882291,BBB,High,A,Low,B,Low,265,341,365,1417,BBB,Medium
+aese,Allied Esports Entertainment Inc,USD,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,1708341,BB,Excellent,B,Excellent,B,High,635,364,213,643,B,High
+aeye,AudioEye Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1362190,BB,High,AA,High,C,High,360,373,277,1067,BB,High
+aeri,Aerie Pharmaceuticals Inc,USD,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,1337553,B,Excellent,B,Excellent,B,Low,408,355,428,1183,BB,High
+aey,ADDvantage Technologies Group Inc,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,874292,BBB,High,AA,Medium,B,High,580,205,358,844,BBB,Medium
+afaq,AF Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,1841661,BB,High,AA,Medium,BBB,Low,370,299,333,1101,BBB,High
+afmd,Affimed NV,EUR,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1608390,B,Medium,A,Medium,C,Medium,368,201,261,1104,A,Medium
+afcg,AFC Gamma Inc,USD,NASDAQ NMS - GLOBAL MARKET,Real Estate,1822523,BB,Excellent,AA,Excellent,B,Medium,560,253,355,944,BB,Medium
+afbi,Affinity Bancshares Inc,USD,NASDAQ NMS - GLOBAL MARKET,Banking,1823406,BB,High,A,Medium,C,High,293,298,259,1150,A,Medium
+afrm,Affirm Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1820953,AA,High,B,High,BBB,High,202,287,275,1007,BBB,High
+afib,Acutus Medical Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1522860,AA,High,A,Medium,C,High,455,301,315,761,A,Medium
+agen,Agenus Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1098972,A,Medium,CCC,Medium,BBB,Medium,605,324,338,696,BB,High
+afya,Afya Ltd,BRL,NASDAQ NMS - GLOBAL MARKET,Diversified Consumer Services,1771007,B,Excellent,BBB,High,BBB,High,240,386,321,1183,A,High
+agfs,AgroFresh Solutions Inc,USD,NASDAQ NMS - GLOBAL MARKET,Chemicals,1592016,BBB,Medium,B,High,BB,High,410,361,245,1269,BB,Medium
+agfy,Agrify Corp,USD,NASDAQ NMS - GLOBAL MARKET,Machinery,1800637,BB,Excellent,BB,High,C,High,235,203,220,1114,BB,High
+agil,AgileThought Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1790625,BB,Medium,BBB,Low,BB,Low,635,333,226,1015,BB,High
+agmh,AGM Group Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Financial Services,1705402,B,Excellent,A,High,C,Medium,275,403,335,1025,BB,Medium
+agio,Agios Pharmaceuticals Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1439222,B,Medium,BBB,Low,B,High,215,250,365,605,B,High
+agle,Aeglea Bio Therapeutics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1636282,BB,Excellent,BBB,High,C,Medium,245,443,385,827,A,High
+agnc,AGNC Investment Corp,USD,NASDAQ NMS - GLOBAL MARKET,Real Estate,1423689,B,High,AA,Low,BB,Medium,340,221,355,1129,BBB,Medium
+agri,AgriFORCE Growing Systems Ltd,USD,NASDAQ NMS - GLOBAL MARKET,Food Products,1826397,BBB,High,A,Excellent,C,Medium,538,252,295,727,BBB,Medium
+agrx,Agile Therapeutics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,1261249,BBB,High,B,Medium,C,High,437,415,277,927,B,High
+agys,Agilysys Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,78749,BBB,Excellent,B,High,B,High,511,412,320,773,B,Medium
+agtc,Applied Genetic Technologies Corp,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1273636,A,Medium,CCC,High,C,High,572,303,226,630,BB,Medium
+ahco,Adapthealth Corp,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1725255,BB,High,BBB,Medium,BBB,Medium,485,347,315,1204,B,High
+ahpi,Allied Healthcare Products Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,874710,A,Medium,BB,High,BB,Low,472,320,203,1126,BBB,High
+aib,AIB Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,1882963,B,High,BBB,Low,BB,Medium,615,264,285,1057,BB,High
+adtn,ADTRAN Inc,USD,NASDAQ NMS - GLOBAL MARKET,Communications,926282,BBB,High,BB,Medium,BB,Low,202,326,325,795,BB,Medium
+adn,Advent Technologies Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,1744494,BB,Medium,CCC,Excellent,BB,Low,409,373,364,842,BB,Medium
+aiki,Aikido Pharma Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,12239,BB,High,B,High,BBB,Medium,508,287,303,885,BB,High
+akic,Sports Ventures Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,1826574,AA,Medium,CCC,Medium,B,Medium,580,245,270,1533,BBB,Medium
+aip,Arteris Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1667011,BB,Excellent,A,Medium,C,High,219,364,300,1408,B,Medium
+akro,Akero Therapeutics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1744659,BBB,High,AA,Excellent,B,Low,629,217,400,679,A,High
+airt,Air T Inc,USD,NASDAQ NMS - GLOBAL MARKET,Logistics and Transportation,353184,AA,High,A,Excellent,BBB,Low,210,479,355,1205,B,High
+aimc,Altra Industrial Motion Corp,USD,NASDAQ NMS - GLOBAL MARKET,Machinery,1374535,BBB,Medium,BBB,Medium,B,High,305,303,280,1127,BBB,Medium
+akba,Akebia Therapeutics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1517022,A,High,BB,Excellent,BB,Medium,215,308,220,842,A,High
+airg,Airgain Inc,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,1272842,AA,Medium,BBB,Low,BB,High,210,202,270,604,BB,High
+airs,Airsculpt Technologies Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1870940,A,High,BB,Medium,C,High,270,351,364,1074,A,Medium
+akam,Akamai Technologies Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1086222,A,High,CCC,Low,C,Medium,350,302,375,931,A,High
+aku,Akumin Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1776197,A,High,B,Low,BB,Low,687,246,267,761,B,High
+akus,Akouos Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1722271,AA,Excellent,CCC,Excellent,BB,Low,245,335,318,770,BBB,Medium
+akts,Akoustis Technologies Inc,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,1584754,BBB,High,AA,High,BB,High,363,234,321,939,A,Medium
+aktx,Akari Therapeutics PLC,USD,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,1541157,A,Medium,BB,High,B,Medium,410,331,364,628,BBB,High
+albo,Albireo Pharma Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1322505,BBB,High,BBB,High,BB,High,370,382,475,1242,A,Medium
+akya,Akoya Biosciences Inc,USD,NASDAQ NMS - GLOBAL MARKET,Life Sciences Tools and Services,1711933,AA,Medium,BBB,Excellent,B,Low,202,245,358,1100,B,High
+alco,Alico Inc,USD,NASDAQ NMS - GLOBAL MARKET,Food Products,3545,BBB,High,A,Low,BB,Medium,346,318,261,758,BBB,Medium
+aldx,Aldeyra Therapeutics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1341235,BB,Excellent,A,Low,BB,Medium,320,319,318,989,A,Medium
+alec,Alector Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1653087,BBB,High,BB,Low,BBB,Low,467,443,280,704,BB,High
+algm,Allegro Microsystems Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,866291,A,Medium,A,Medium,B,Medium,271,394,333,1267,B,Medium
+alf,Alfi Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1833908,BB,Excellent,CCC,High,C,High,315,515,200,1103,BBB,Medium
+algn,Align Technology Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1097149,A,High,CCC,High,C,Medium,503,296,270,1127,A,Medium
+algs,Aligos Therapeutics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1799448,BBB,Excellent,A,Low,C,Low,558,352,270,1007,BB,Medium
+alhc,Alignment Healthcare LLC,USD,NASDAQ NMS - GLOBAL MARKET,,1832466,BB,Medium,BBB,High,C,Low,361,360,255,1340,A,Medium
+alks,Alkermes Plc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1520262,A,High,BBB,Low,BBB,High,549,273,300,788,A,Medium
+alim,Alimera Sciences Inc,USD,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,1267602,BBB,High,BBB,Excellent,C,Low,435,304,75,826,BBB,High
+algt,Allegiant Travel Co,USD,NASDAQ NMS - GLOBAL MARKET,Airlines,1362468,AA,High,AA,Low,C,High,329,345,311,1127,BB,High
+aih,Aesthetic Medical International Holdings Group Ltd,CNY,NASDAQ NMS - GLOBAL MARKET,Health Care,1757143,BBB,Medium,BBB,Low,B,Medium,444,354,208,856,B,Medium
+alkt,Alkami Technology Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1529274,BB,Excellent,AA,High,B,Medium,490,236,300,744,BB,Medium
+alny,Alnylam Pharmaceuticals Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1178670,BBB,High,BBB,Medium,B,Low,653,328,245,1081,BB,High
+allt,Allot Ltd,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1365767,B,Medium,BBB,High,B,Low,533,348,333,951,BB,Medium
+allo,Allogene Therapeutics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1737287,A,High,B,Medium,C,Medium,270,225,226,1039,BBB,High
+amat,Applied Materials Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,6951,AA,Excellent,A,Low,BB,Low,568,283,210,1294,BBB,High
+amd,Advanced Micro Devices Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,2488,AA,Excellent,AA,Low,C,Medium,320,205,288,930,B,Medium
+atvi,Activision Blizzard Inc,USD,NASDAQ NMS - GLOBAL MARKET,Media,718877,AA,Excellent,CCC,Medium,BB,High,470,285,259,1114,BB,Medium
+avgo,Broadcom Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,1730168,BBB,Excellent,A,Excellent,C,Medium,371,245,235,824,B,Medium
+anss,ANSYS Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1013462,BB,Excellent,A,Low,BBB,High,218,344,358,961,B,High
+amzn,Amazon.com Inc,USD,NASDAQ NMS - GLOBAL MARKET,Retail,1018724,A,High,A,Excellent,C,Medium,508,250,236,707,A,Medium
+aihs,Senmiao Technology Ltd,USD,NASDAQ NMS - GLOBAL MARKET,Financial Services,1711012,AA,High,AA,Low,BB,High,409,307,316,969,BB,High
+apa,APA Corp (US),USD,NASDAQ NMS - GLOBAL MARKET,Energy,1841666,BBB,Excellent,CCC,Low,BBB,Low,635,347,308,856,A,Medium
+biib,Biogen Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,875045,B,High,CCC,Excellent,B,Low,285,323,270,1208,A,High
+bkng,Booking Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,1075531,B,Excellent,BB,Excellent,C,Medium,562,374,340,1084,BB,Medium
+cdns,Cadence Design Systems Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,813672,A,High,A,High,BB,Low,321,210,75,993,BBB,Medium
+cdw,CDW Corp,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,1402057,AA,Excellent,B,Excellent,C,Low,382,235,347,645,A,Medium
+chrw,CH Robinson Worldwide Inc,USD,NASDAQ NMS - GLOBAL MARKET,Logistics and Transportation,1043277,B,Excellent,AA,Excellent,BB,Low,438,310,320,642,A,High
+cinf,Cincinnati Financial Corp,USD,NASDAQ NMS - GLOBAL MARKET,Insurance,20286,BBB,Excellent,AA,Low,C,Medium,355,352,226,1276,B,High
+chtr,Charter Communications Inc,USD,NASDAQ NMS - GLOBAL MARKET,Media,1091667,B,High,B,Medium,BBB,Medium,205,291,347,1348,B,High
+cmcsa,Comcast Corp,USD,NASDAQ NMS - GLOBAL MARKET,Media,1166691,BBB,Medium,AA,Low,BB,Low,549,306,340,606,BBB,Medium
+cprt,Copart Inc,USD,NASDAQ NMS - GLOBAL MARKET,Commercial Services and Supplies,900075,B,Medium,BBB,High,BB,High,600,288,311,819,A,Medium
+cost,Costco Wholesale Corp,USD,NASDAQ NMS - GLOBAL MARKET,Retail,909832,AA,Medium,A,Excellent,BBB,High,604,322,335,1268,B,Medium
+csx,CSX Corp,USD,NASDAQ NMS - GLOBAL MARKET,Road and Rail,277948,BB,Medium,BB,Medium,BB,Medium,719,438,355,768,BB,High
+ctsh,Cognizant Technology Solutions Corp,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1058290,AA,High,A,Low,BBB,High,646,390,305,641,A,High
+cme,CME Group Inc,USD,NASDAQ NMS - GLOBAL MARKET,Financial Services,1156375,BBB,Excellent,B,Low,BBB,High,540,250,213,1161,B,High
+csco,Cisco Systems Inc,USD,NASDAQ NMS - GLOBAL MARKET,Communications,858877,B,High,BBB,High,B,High,515,345,75,1100,BB,Medium
+ctas,Cintas Corp,USD,NASDAQ NMS - GLOBAL MARKET,Commercial Services and Supplies,723254,B,Excellent,CCC,Low,BBB,Low,459,294,338,841,BB,High
+ctxs,Citrix Systems Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,877890,B,Medium,A,High,C,Low,361,366,311,1274,BB,Medium
+czr,Caesars Entertainment Inc,USD,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,1590895,A,Medium,BBB,Low,BB,Medium,568,207,400,1086,B,High
+dish,DISH Network Corp,USD,NASDAQ NMS - GLOBAL MARKET,Media,1001082,BB,High,CCC,High,B,Low,581,292,256,636,A,High
+dltr,Dollar Tree Inc,USD,NASDAQ NMS - GLOBAL MARKET,Retail,935703,B,High,BB,Low,BB,High,562,238,321,1312,B,Medium
+dxcm,Dexcom Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1093557,AA,Medium,AA,Low,BB,High,485,245,243,954,BBB,High
+ea,Electronic Arts Inc,USD,NASDAQ NMS - GLOBAL MARKET,Media,712515,AA,Excellent,BB,High,B,High,225,390,475,649,BBB,High
+lnt,Alliant Energy Corp,USD,NASDAQ NMS - GLOBAL MARKET,Utilities,352541,A,High,CCC,High,BB,Medium,470,379,250,774,BBB,High
+fang,Diamondback Energy Inc,USD,NASDAQ NMS - GLOBAL MARKET,Energy,1539838,BB,High,A,Medium,BB,Low,320,322,280,642,BB,Medium
+ebay,eBay Inc,USD,NASDAQ NMS - GLOBAL MARKET,Retail,1065088,BBB,Excellent,CCC,Low,BBB,Medium,382,214,257,1242,BB,Medium
+lkq,LKQ Corp,USD,NASDAQ NMS - GLOBAL MARKET,Distributors,1065696,BBB,Medium,AA,High,B,Medium,336,344,218,1204,BBB,Medium
+googl,Alphabet Inc,USD,NASDAQ NMS - GLOBAL MARKET,Media,1652044,BBB,High,B,High,BBB,Low,455,239,278,863,BBB,High
+mar,Marriott International Inc,USD,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,1048286,AA,Medium,B,Low,BBB,Medium,351,241,285,899,A,Medium
+mchp,Microchip Technology Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,827054,B,High,BB,High,C,Low,580,368,311,885,B,Medium
+lrcx,Lam Research Corp,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,707549,A,Medium,BB,High,C,Medium,581,271,280,958,B,High
+mdlz,Mondelez International Inc,USD,NASDAQ NMS - GLOBAL MARKET,Food Products,1103982,BBB,Medium,AA,High,BB,Medium,507,309,243,1191,B,Medium
+meta,Meta Platforms Inc,USD,NASDAQ NMS - GLOBAL MARKET,Media,1326801,BB,Excellent,A,Excellent,BB,Medium,540,268,321,834,BBB,High
+mktx,Marketaxess Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Financial Services,1278021,B,Medium,BBB,Medium,BB,Medium,568,312,428,1373,BBB,Medium
+mnst,Monster Beverage Corp,USD,NASDAQ NMS - GLOBAL MARKET,Beverages,865752,BB,High,BB,Medium,C,Medium,687,206,226,868,B,Medium
+mrna,Moderna Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1682852,BBB,High,AA,Low,BB,Medium,295,334,350,1150,BB,Medium
+mtch,Match Group Inc,USD,NASDAQ NMS - GLOBAL MARKET,Media,891103,B,High,BBB,Excellent,BB,Medium,374,243,256,743,BBB,High
+mpwr,Monolithic Power Systems Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,1280452,BB,High,B,Excellent,BB,Medium,409,211,298,650,B,Medium
+msft,Microsoft Corp,USD,NASDAQ NMS - GLOBAL MARKET,Technology,789019,BBB,Excellent,B,High,B,Low,225,298,364,1433,A,Medium
+mu,Micron Technology Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,723125,BBB,High,B,Medium,BBB,High,307,264,358,693,A,High
+ndaq,Nasdaq Inc,USD,NASDAQ NMS - GLOBAL MARKET,Financial Services,1120193,BBB,Excellent,AA,Medium,BB,High,299,286,340,755,BB,High
+nlok,NortonLifeLock Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,849399,A,Medium,BB,High,BBB,Medium,329,288,270,1218,BB,High
+ntrs,Northern Trust Corp,USD,NASDAQ NMS - GLOBAL MARKET,Financial Services,73124,BBB,Excellent,A,Medium,B,Low,410,253,364,717,A,Medium
+nwl,Newell Brands Inc,USD,NASDAQ NMS - GLOBAL MARKET,Consumer products,814453,BB,Medium,AA,Low,C,High,548,380,267,1133,BB,High
+nvda,NVIDIA Corp,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,1045810,AA,High,BB,Medium,BB,High,507,269,348,1049,A,High
+allk,Allakos Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1564824,A,High,A,Medium,BB,High,508,207,220,1023,BB,Medium
+nwsa,News Corp,USD,NASDAQ NMS - GLOBAL MARKET,Media,1564708,BBB,High,A,Medium,BBB,Medium,400,207,221,971,BBB,High
+odfl,Old Dominion Freight Line Inc,USD,NASDAQ NMS - GLOBAL MARKET,Road and Rail,878927,A,Medium,BB,High,B,Low,231,385,250,1068,BB,Medium
+pcar,Paccar Inc,USD,NASDAQ NMS - GLOBAL MARKET,Machinery,75362,B,Excellent,BBB,Medium,B,High,218,234,333,996,BB,Medium
+nxpi,NXP Semiconductors NV,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,1413447,AA,Excellent,CCC,Medium,B,Low,331,268,265,991,A,High
+orly,O'Reilly Automotive Inc,USD,NASDAQ NMS - GLOBAL MARKET,Retail,898173,BB,Excellent,CCC,Medium,C,High,329,423,75,936,A,High
+payx,Paychex Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,723531,BB,Excellent,AA,Low,BBB,Low,271,214,216,993,A,Medium
+pfg,Principal Financial Group Inc,USD,NASDAQ NMS - GLOBAL MARKET,Insurance,1126328,BBB,Excellent,BBB,Low,B,Medium,234,233,318,786,BBB,High
+rost,Ross Stores Inc,USD,NASDAQ NMS - GLOBAL MARKET,Retail,745732,BB,High,CCC,High,BB,Low,550,288,294,1250,B,Medium
+sbac,SBA Communications Corp,USD,NASDAQ NMS - GLOBAL MARKET,Real Estate,1034054,AA,Medium,CCC,Low,BB,High,219,344,208,914,B,High
+qcom,Qualcomm Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,804328,BB,High,A,High,BB,Medium,375,277,240,1268,A,High
+pool,Pool Corp,USD,NASDAQ NMS - GLOBAL MARKET,Distributors,945841,BBB,Medium,AA,High,B,High,221,216,330,727,BBB,Medium
+pep,PepsiCo Inc,USD,NASDAQ NMS - GLOBAL MARKET,Beverages,77476,BB,Excellent,BB,Low,C,High,308,352,221,808,B,Medium
+sbux,Starbucks Corp,USD,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,829224,AA,High,B,Excellent,BB,High,477,386,248,996,BBB,Medium
+reg,Regency Centers Corp,USD,NASDAQ NMS - GLOBAL MARKET,Real Estate,910606,BB,Medium,B,Excellent,BBB,Medium,519,515,311,1409,A,Medium
+qrvo,Qorvo Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,1604778,A,Excellent,BB,Excellent,B,Low,558,268,328,686,BBB,High
+ptc,PTC Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,857005,BB,Excellent,CCC,High,BB,Medium,203,360,245,1232,B,High
+penn,PENN Entertainment Inc,USD,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,921738,B,High,A,Low,B,Medium,307,258,226,1243,A,High
+pypl,PayPal Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1633917,AA,Excellent,CCC,Low,B,Medium,247,300,205,1201,BBB,High
+regn,Regeneron Pharmaceuticals Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,872589,B,Medium,B,High,B,High,585,263,225,1145,A,Medium
+amgn,Amgen Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,318154,B,Excellent,BBB,Medium,B,Medium,395,288,240,642,BB,High
+snps,Synopsys Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,883241,BBB,Medium,B,High,BB,Medium,370,346,310,1119,B,High
+stx,Seagate Technology Holdings PLC,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1137789,AA,Excellent,CCC,Low,C,Medium,519,325,256,609,A,High
+tech,Bio-Techne Corp,USD,NASDAQ NMS - GLOBAL MARKET,Life Sciences Tools and Services,842023,B,Excellent,BBB,Medium,C,Medium,522,230,290,660,B,High
+ter,Teradyne Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,97210,B,Excellent,BB,High,B,High,507,303,385,1159,BB,Medium
+swks,Skyworks Solutions Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,4127,B,High,AA,Low,BBB,High,510,331,260,762,BB,Medium
+trmb,Trimble Inc,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,864749,AA,High,AA,Excellent,B,High,558,240,428,673,BBB,High
+trow,T Rowe Price Group Inc,USD,NASDAQ NMS - GLOBAL MARKET,Financial Services,1113169,B,Medium,AA,Medium,C,Medium,527,342,318,1442,A,Medium
+ttwo,Take-Two Interactive Software Inc,USD,NASDAQ NMS - GLOBAL MARKET,Media,946581,BB,Medium,A,Excellent,BBB,Low,308,313,259,1136,BB,High
+tsla,Tesla Inc,USD,NASDAQ NMS - GLOBAL MARKET,Automobiles,1318605,B,Excellent,AA,High,B,High,307,326,226,650,BB,High
+tsco,Tractor Supply Co,USD,NASDAQ NMS - GLOBAL MARKET,Retail,916365,B,Excellent,A,Excellent,BB,Low,311,339,218,693,BBB,Medium
+txn,Texas Instruments Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,97476,BBB,High,A,High,B,High,375,283,288,747,BB,Medium
+tmus,T-Mobile US Inc,USD,NASDAQ NMS - GLOBAL MARKET,Telecommunication,1283699,BBB,Excellent,A,Excellent,C,High,503,259,288,1068,BB,Medium
+ual,United Airlines Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Airlines,100517,BB,Excellent,AA,High,B,Medium,500,237,325,1116,BB,Medium
+vrsk,Verisk Analytics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Professional Services,1442145,BBB,High,BB,Excellent,B,High,360,300,75,1144,BB,High
+ulta,Ulta Beauty Inc,USD,NASDAQ NMS - GLOBAL MARKET,Retail,1403568,AA,High,B,High,BBB,High,360,368,221,1107,BB,High
+vrtx,Vertex Pharmaceuticals Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,875320,BBB,High,BBB,Medium,BBB,Medium,530,202,310,961,BBB,High
+vtrs,Viatris Inc,USD,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,1792044,BBB,Excellent,CCC,High,C,Medium,569,213,243,617,B,Medium
+vrsn,Verisign Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1014473,BB,Excellent,B,Low,BBB,Medium,325,438,259,912,BBB,High
+wba,Walgreens Boots Alliance Inc,USD,NASDAQ NMS - GLOBAL MARKET,Retail,1618921,BBB,Excellent,A,Low,BBB,High,205,384,245,737,BB,Medium
+ntap,NetApp Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1002047,BBB,High,CCC,High,BB,Medium,336,347,400,931,A,Medium
+xel,Xcel Energy Inc,USD,NASDAQ NMS - GLOBAL MARKET,Utilities,72903,B,Medium,BBB,Medium,BB,Low,251,265,210,950,BBB,High
+xray,DENTSPLY SIRONA Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,818479,BBB,High,B,Excellent,BB,Medium,320,291,259,773,BB,High
+zbra,Zebra Technologies Corp,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,877212,B,Excellent,BB,Medium,B,Medium,530,252,294,971,BBB,Medium
+aap,Advance Auto Parts Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Retail,1158449,A,Excellent,CCC,High,BB,Low,520,278,340,1136,B,Medium
+zion,Zions Bancorporation NA,USD,NASDAQ NMS - GLOBAL MARKET,Banking,109380,BB,High,BB,High,C,Medium,600,544,277,1143,A,High
+wynn,Wynn Resorts Ltd,USD,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,1174922,BBB,Excellent,AA,Excellent,B,Medium,687,312,311,1408,B,Medium
+a,Agilent Technologies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,1090872,A,Medium,BB,Medium,BBB,Medium,331,442,237,1206,BB,High
+abbv,Abbvie Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Biotechnology,1551152,BB,High,B,High,C,Low,231,319,256,1258,B,High
+abc,Amerisourcebergen Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,1140859,BB,Medium,B,Medium,C,High,548,374,243,1126,A,Medium
+adm,Archer-Daniels-Midland Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Food Products,7084,BB,Excellent,AA,Low,B,Medium,485,403,340,732,A,High
+abt,Abbott Laboratories,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,1800,BB,High,CCC,Medium,BBB,Medium,265,442,243,1274,BBB,Medium
+aee,Ameren Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,1002910,A,Medium,B,High,C,Medium,223,230,365,707,BBB,High
+aes,AES Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,874761,A,High,BBB,Excellent,BB,Medium,489,218,318,1122,A,High
+afl,Aflac Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,4977,BBB,Excellent,CCC,High,C,High,395,318,316,620,BBB,High
+acn,Accenture PLC,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1467373,AA,Medium,AA,Excellent,C,High,604,297,328,1144,BBB,High
+ajg,Arthur J. Gallagher & Co.,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,354190,AA,Excellent,CCC,Low,B,High,218,261,218,1188,A,High
+aiz,Assurant Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,1267238,BB,Excellent,AA,Excellent,BB,Medium,570,285,288,898,A,High
+alk,Alaska Air Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Airlines,766421,BB,High,AA,High,C,Medium,629,667,240,853,A,Medium
+alb,Albemarle Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,915913,BB,Medium,B,High,C,High,472,244,310,685,A,Medium
+aig,American International Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,5272,B,Excellent,A,Medium,B,Medium,600,363,341,1104,BB,High
+all,Allstate Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,899051,B,Excellent,BBB,Low,B,Medium,450,265,303,961,B,High
+alle,Allegion PLC,USD,"NEW YORK STOCK EXCHANGE, INC.",Building,1579241,BBB,Excellent,B,Excellent,BBB,High,350,339,267,1192,A,Medium
+amp,Ameriprise Financial Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,820027,B,Medium,AA,High,BBB,Low,269,323,358,1076,BBB,High
+ame,AMETEK Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,1037868,A,High,B,Excellent,BB,High,205,361,221,1255,BB,Medium
+amt,American Tower Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1053507,B,Excellent,BB,Excellent,BBB,Medium,538,317,358,982,B,Medium
+aos,A O Smith Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Building,91142,BBB,Medium,BBB,High,BBB,Medium,336,288,316,885,A,Medium
+apd,Air Products and Chemicals Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,2969,A,Medium,AA,High,C,Medium,518,315,308,722,BB,Medium
+aon,Aon PLC,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,315293,AA,Excellent,CCC,Low,BB,Low,308,317,370,949,B,Medium
+anet,Arista Networks Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Communications,1596532,B,Excellent,B,Excellent,B,Low,217,210,428,773,B,Medium
+aph,Amphenol Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,820313,B,Excellent,BB,Medium,BBB,Low,604,277,333,1128,B,Medium
+ato,Atmos Energy Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,731802,B,Excellent,AA,Medium,BB,Medium,500,232,308,760,A,High
+awk,American Water Works Company Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,1410636,AA,Medium,BB,Excellent,BBB,Low,530,214,290,1128,BB,Medium
+are,Alexandria Real Estate Equities Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1035443,BB,High,BB,High,C,Medium,715,223,75,1363,A,Medium
+aptv,Aptiv PLC,USD,"NEW YORK STOCK EXCHANGE, INC.",Auto Components,1521332,BB,Excellent,BB,High,C,Medium,605,321,313,1221,A,Medium
+avb,Avalonbay Communities Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,915912,BBB,High,B,High,BBB,Low,569,363,277,1173,BB,Medium
+avy,Avery Dennison Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Packaging,8818,A,Excellent,B,Medium,C,High,298,312,310,897,BB,High
+ba,Boeing Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,12927,BB,High,BB,Low,C,High,675,286,267,820,BB,High
+bac,Bank of America Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Banking,70858,BBB,Excellent,B,Excellent,B,High,605,415,335,1122,A,High
+bax,Baxter International Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,10456,BBB,Medium,BB,Medium,B,High,203,337,315,772,BBB,High
+bbwi,Bath & Body Works Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Retail,701985,A,Excellent,BBB,Medium,B,Medium,575,228,355,1182,A,High
+bdx,Becton Dickinson and Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,10795,B,High,BBB,Low,C,Low,438,237,216,897,B,Medium
+bio,Bio Rad Laboratories Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,12208,BBB,Excellent,BB,Medium,B,Medium,462,570,305,777,A,High
+bby,Best Buy Co Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Retail,764478,BB,Medium,BB,High,BBB,Low,635,280,237,1306,BBB,High
+bk,Bank of New York Mellon Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,1390777,AA,Medium,B,Medium,BBB,High,330,236,210,1113,B,High
+axp,American Express Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,4962,BB,Excellent,BB,Excellent,B,Low,251,325,226,715,BB,High
+br,Broadridge Financial Solutions Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1383312,BB,High,AA,Excellent,C,Medium,515,216,285,1209,B,High
+bmy,Bristol-Myers Squibb Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,14272,BBB,Excellent,A,Medium,B,Low,220,248,321,929,B,Medium
+bro,Brown & Brown Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,79282,BB,Medium,BBB,Medium,BBB,Medium,562,214,295,1174,A,Medium
+azo,Autozone Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Retail,866787,B,Medium,AA,Excellent,BBB,High,515,231,225,930,A,High
+bsx,Boston Scientific Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,885725,BBB,High,AA,Excellent,C,Medium,293,222,305,949,B,High
+bx,Blackstone Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,1393818,B,Medium,CCC,Low,BBB,Low,299,230,365,1186,B,High
+bxp,Boston Properties Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1037540,A,Medium,AA,High,B,High,589,280,243,724,BBB,Medium
+sivb,SVB Financial Group,USD,NASDAQ NMS - GLOBAL MARKET,Banking,719739,BB,Excellent,CCC,Low,C,High,592,423,365,1262,A,High
+c,Citigroup Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Banking,831001,AA,High,BBB,Medium,B,High,223,379,223,841,BB,High
+cat,Caterpillar Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Machinery,18230,AA,High,BB,Excellent,B,High,543,311,261,885,BB,Medium
+carr,Carrier Global Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Building,1783180,AA,Excellent,AA,Medium,C,Low,509,329,298,919,BBB,High
+cbre,CBRE Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1138118,B,Medium,BBB,High,C,High,715,380,260,609,A,High
+cci,Crown Castle Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1051470,B,High,B,Low,BB,Low,396,247,213,617,BB,Medium
+cday,Ceridian HCM Holding Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1725057,B,Excellent,CCC,High,B,Medium,448,205,250,1209,B,Medium
+cma,Comerica Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Banking,28412,BB,Excellent,BBB,High,BB,High,472,296,257,1417,A,Medium
+dhi,D R Horton Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,882184,BBB,High,BBB,Low,BB,Low,240,346,256,744,A,Medium
+dov,Dover Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Machinery,29905,B,Excellent,AA,Medium,BB,High,370,291,348,788,BB,High
+dri,Darden Restaurants Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,940944,BB,Excellent,BB,Low,C,Low,719,372,316,852,A,Medium
+ce,Celanese Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,1306830,BB,Excellent,B,High,B,High,290,340,237,802,A,High
+dg,Dollar General Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Retail,29534,AA,Medium,BBB,Excellent,B,Low,583,325,259,744,A,High
+cmg,Chipotle Mexican Grill Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,1058090,AA,Medium,AA,Excellent,C,High,570,390,240,1242,A,Medium
+dgx,Quest Diagnostics Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,1022079,AA,Excellent,A,Excellent,B,Medium,608,324,277,744,A,Medium
+ccl,Carnival Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,815097,BBB,High,CCC,Medium,BBB,Medium,483,423,350,1168,A,High
+chd,Church & Dwight Co Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,313927,A,High,BBB,Medium,BB,Low,365,225,203,747,B,High
+dow,Dow Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,1751788,B,High,CCC,Low,BB,High,405,361,215,1083,BBB,Medium
+dfs,Discover Financial Services,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,1393612,AA,Medium,B,High,BBB,High,569,207,230,1229,A,High
+duk,Duke Energy Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,1326160,B,Excellent,A,Medium,BBB,Medium,589,310,245,1103,BBB,Medium
+dre,Duke Realty Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,783280,BBB,High,AA,Excellent,C,Low,200,570,216,763,BBB,Medium
+cf,CF Industries Holdings Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,1324404,BBB,Medium,CCC,Low,BBB,Medium,550,262,400,1049,A,High
+dvn,Devon Energy Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,1090012,A,High,BB,Medium,C,High,240,382,294,616,BB,Medium
+ecl,Ecolab Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,31462,A,Medium,CCC,Low,BB,Low,235,318,259,933,A,Medium
+hd,Home Depot Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Retail,354950,BB,Medium,BB,Medium,B,Medium,295,422,216,774,BB,Medium
+dte,DTE Energy Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,936340,BBB,Medium,CCC,High,BB,Medium,234,215,340,1281,B,Medium
+eix,Edison International,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,827052,BBB,Excellent,B,High,BBB,Medium,295,391,280,1312,A,High
+glw,Corning Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,24741,A,Excellent,CCC,High,B,Low,477,384,256,628,BB,High
+dva,DaVita Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,927066,B,Excellent,BBB,Medium,B,Medium,351,354,313,785,BB,Medium
+wdc,Western Digital Corp,USD,NASDAQ NMS - GLOBAL MARKET,Technology,106040,AA,Medium,A,Low,BB,High,351,332,255,868,A,High
+gs,Goldman Sachs Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,886982,AA,Excellent,B,High,BB,Medium,520,335,475,1033,B,High
+dxc,DXC Technology Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1688568,A,Medium,CCC,Excellent,BBB,Medium,483,315,290,1047,A,High
+etn,Eaton Corporation PLC,USD,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,1551182,BBB,Medium,BBB,Low,BB,High,233,258,321,996,BB,High
+ed,Consolidated Edison Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,1047862,BB,Excellent,B,High,BB,Low,517,363,333,1358,B,Medium
+hsy,Hershey Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Food Products,47111,BBB,Medium,CCC,High,BBB,High,420,263,355,1119,A,High
+jnj,Johnson & Johnson,USD,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,200406,AA,Medium,CCC,Excellent,BBB,Low,203,338,294,1227,BBB,High
+jpm,JPMorgan Chase & Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Banking,19617,B,High,B,Low,B,Low,221,227,303,1363,B,High
+ko,Coca-Cola Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Beverages,21344,BB,Medium,BBB,Low,BBB,High,560,359,221,749,A,Medium
+kmx,Carmax Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Retail,1170010,BB,Medium,BB,Low,BBB,Low,505,247,259,955,BB,Medium
+ldos,Leidos Holdings Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Professional Services,1336920,B,Medium,AA,High,BB,Low,490,324,328,739,B,High
+leg,Leggett & Platt Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,58492,BBB,Excellent,A,Low,B,Medium,570,214,294,1068,B,Medium
+mcd,McDonald's Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,63908,AA,Medium,BBB,High,C,Low,504,243,221,1164,A,Medium
+lin,Linde PLC,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,1707925,B,High,BB,High,BB,Low,503,323,348,735,B,Medium
+lumn,Lumen Technologies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Telecommunication,18926,A,Medium,B,Excellent,B,Medium,245,285,340,1381,B,High
+lyb,LyondellBasell Industries NV,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,1489393,A,Excellent,BB,High,B,Low,310,252,233,1110,A,Medium
+mco,Moody's Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,1059556,A,Excellent,B,Excellent,BB,Low,555,273,320,935,A,Medium
+mck,Mckesson Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,927653,BBB,Medium,CCC,Excellent,BBB,High,247,256,75,957,B,High
+mas,Masco Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Building,62996,B,Medium,A,High,C,High,454,412,294,653,B,Medium
+low,Lowe's Companies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Retail,60667,BB,High,AA,Excellent,BB,High,287,379,475,621,B,High
+mdt,Medtronic PLC,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,1613103,AA,High,B,Low,BBB,Medium,585,231,236,903,BB,Medium
+mkc,McCormick & Company Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Food Products,63754,BB,Medium,AA,High,BB,Low,410,341,248,772,B,Medium
+met,MetLife Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,1099219,BB,High,CCC,Medium,B,High,543,300,240,1232,A,High
+mgm,MGM Resorts International,USD,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,789570,BBB,Medium,AA,High,BBB,Medium,308,277,428,1011,BB,High
+mmc,Marsh & McLennan Companies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,62709,BBB,Medium,AA,Excellent,C,Medium,511,287,210,745,B,High
+mo,Altria Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Tobacco,764180,BBB,High,AA,Excellent,BBB,Low,535,201,236,820,B,High
+bwa,Borgwarner Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Auto Components,908255,BB,High,BBB,Medium,B,Low,477,253,220,1154,BBB,High
+mrk,Merck & Co Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,310158,B,Excellent,AA,High,BB,High,203,265,460,677,B,Medium
+mro,Marathon Oil Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,101778,BBB,High,BB,High,C,Medium,527,350,278,1227,BB,Medium
+mpc,Marathon Petroleum Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,1510295,A,High,AA,Excellent,B,Low,368,259,294,903,BBB,High
+ms,Morgan Stanley,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,895421,BBB,Excellent,BB,Excellent,BB,Low,233,225,295,1107,A,Medium
+mtb,M&T Bank Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Banking,36270,AA,High,B,Excellent,BB,Low,325,355,233,819,A,High
+mtd,Mettler-Toledo International Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,1037646,BBB,Excellent,BBB,Excellent,BB,Medium,370,365,285,706,BB,High
+msi,Motorola Solutions Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Communications,68505,A,Excellent,A,Medium,B,Medium,247,399,256,810,BB,High
+nee,Nextera Energy Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,753308,AA,Excellent,BBB,Excellent,BB,Medium,265,363,303,1197,BB,High
+msci,MSCI Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,1408198,AA,High,CCC,Medium,BB,Medium,275,287,228,1049,BB,Medium
+nclh,Norwegian Cruise Line Holdings Ltd,USD,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,1513761,B,Medium,AA,Excellent,BBB,High,310,443,400,1282,B,High
+ni,NiSource Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,1111711,B,Excellent,BB,High,B,Medium,371,347,310,1119,BB,Medium
+noc,Northrop Grumman Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,1133421,BBB,Excellent,BBB,Excellent,BBB,High,492,358,328,908,BB,Medium
+now,ServiceNow Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1373715,AA,Excellent,BB,Excellent,BBB,High,605,250,228,633,BB,High
+nue,Nucor Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Metals and Mining,73309,BBB,Excellent,AA,Low,B,High,340,403,300,1269,BBB,High
+nlsn,Nielsen Holdings PLC,USD,"NEW YORK STOCK EXCHANGE, INC.",Professional Services,1492633,B,High,A,Low,B,Medium,238,346,243,628,BB,Medium
+nsc,Norfolk Southern Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Road and Rail,702165,A,Medium,CCC,High,C,Low,325,265,213,936,A,Medium
+nvr,NVR Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,906163,A,Medium,BBB,Excellent,BBB,Medium,368,247,313,1127,BBB,Medium
+pgr,Progressive Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,80661,BB,Medium,AA,High,BBB,High,218,301,358,651,BB,High
+pfe,Pfizer Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,78003,B,Medium,BBB,Medium,C,High,613,261,298,1111,BBB,Medium
+phm,Pultegroup Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,822416,BB,Medium,CCC,High,B,Medium,565,329,303,658,A,Medium
+ph,Parker-Hannifin Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Machinery,76334,B,Medium,BBB,High,BB,High,700,208,375,657,BBB,Medium
+pki,PerkinElmer Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,31791,BBB,Excellent,B,Medium,BBB,Medium,527,322,208,676,A,Medium
+pld,Prologis Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1045609,BBB,Excellent,A,Low,B,High,345,209,235,669,A,Medium
+ppg,PPG Industries Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,79879,A,Medium,CCC,Low,BB,Medium,310,225,285,758,BBB,Medium
+psa,Public Storage,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1393311,A,Medium,B,High,C,High,583,273,295,1015,A,High
+pnc,PNC Financial Services Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Banking,713676,BB,High,BB,Medium,BBB,Medium,200,247,315,774,BB,Medium
+pm,Philip Morris International Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Tobacco,1413329,B,Excellent,BBB,High,BBB,Medium,555,373,218,701,BB,High
+pkg,Packaging Corp of America,USD,"NEW YORK STOCK EXCHANGE, INC.",Packaging,75677,AA,High,AA,Excellent,C,Medium,336,363,340,1408,A,High
+psx,Phillips 66,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,1534701,AA,Medium,BBB,High,C,Low,368,212,230,707,B,Medium
+pru,Prudential Financial Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,1137774,BBB,High,CCC,Excellent,B,Medium,575,339,230,676,BB,Medium
+pnr,Pentair PLC,USD,"NEW YORK STOCK EXCHANGE, INC.",Machinery,77360,A,Excellent,A,Medium,BB,Medium,526,288,248,957,BBB,Medium
+pnw,Pinnacle West Capital Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,764622,AA,Medium,B,High,B,Medium,271,207,267,818,BBB,High
+ppl,PPL Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,922224,BB,Medium,A,Low,C,Medium,615,286,355,1181,B,High
+pwr,Quanta Services Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Construction,1050915,BB,Medium,CCC,Low,C,Low,512,217,285,750,A,High
+rjf,Raymond James Financial Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,720005,B,Excellent,AA,Low,BBB,High,537,345,216,725,BBB,High
+rf,Regions Financial Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Banking,1281761,A,Excellent,CCC,Medium,BB,Low,600,216,288,880,A,High
+rcl,Royal Caribbean Cruises Ltd,USD,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,884887,BBB,High,BB,Medium,B,High,308,257,330,1137,B,High
+rl,Ralph Lauren Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Textiles Apparel and Luxury Goods,1037038,BB,Medium,AA,High,B,Low,570,379,348,638,BBB,High
+pvh,PVH Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Textiles Apparel and Luxury Goods,78239,A,High,B,Medium,C,Low,605,380,370,899,BB,Medium
+rhi,Robert Half International Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Professional Services,315213,B,Excellent,CCC,Medium,C,High,415,316,243,1232,A,Medium
+pxd,Pioneer Natural Resources Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,1038357,B,Medium,BBB,High,BBB,Low,585,233,221,951,BBB,Medium
+rol,Rollins Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Commercial Services and Supplies,84839,B,Medium,A,Excellent,B,Low,231,303,278,1088,BB,Medium
+rmd,Resmed Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,943819,A,Medium,BBB,Excellent,C,High,365,342,288,841,B,Medium
+schw,Charles Schwab Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,316709,BB,High,CCC,Low,BBB,High,467,391,218,674,A,Medium
+rok,Rockwell Automation Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,1024478,B,High,BB,High,BBB,High,408,351,226,1194,A,High
+tdg,TransDigm Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,1260221,B,Excellent,BBB,Excellent,B,Low,408,324,233,950,B,Medium
+see,Sealed Air Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Packaging,1012100,A,High,B,Excellent,B,High,534,361,260,1224,A,Medium
+rop,Roper Technologies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,882835,BB,Excellent,CCC,High,C,Medium,462,224,260,891,B,High
+swk,Stanley Black & Decker Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Machinery,93556,B,High,B,High,C,High,231,391,310,1136,A,Medium
+stz,Constellation Brands Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Beverages,16918,BB,High,BB,Medium,BBB,High,719,276,243,677,BB,High
+syk,Stryker Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,310764,BBB,High,A,Low,BB,High,715,362,230,971,BBB,High
+syy,Sysco Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Retail,96021,B,High,BBB,Excellent,BB,Low,368,334,233,940,BBB,Medium
+shw,Sherwin-Williams Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,89800,B,Excellent,BBB,Excellent,BBB,Medium,250,247,75,1050,B,High
+spgi,S&P Global Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,64040,BB,High,CCC,Low,C,Low,592,309,320,1145,BBB,High
+ste,STERIS plc,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,1757898,B,Medium,AA,Low,C,Low,610,285,321,1259,B,Medium
+syf,Synchrony Financial,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,1601712,BB,High,CCC,Excellent,BBB,High,293,263,265,725,BB,Medium
+spg,Simon Property Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1063761,B,Medium,AA,High,B,High,340,544,237,1099,BBB,High
+sre,Sempra Energy,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,1032208,BB,Excellent,AA,Medium,BBB,Medium,202,272,75,1413,A,High
+so,Southern Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,92122,AA,Medium,A,High,C,High,444,296,428,1045,B,Medium
+stt,State Street Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,93751,BBB,High,B,Low,BB,High,512,299,428,692,B,Medium
+sna,Snap-On Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Machinery,91440,BBB,High,A,Low,B,Medium,325,362,328,664,B,High
+rtx,Raytheon Technologies Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,101829,A,Excellent,B,High,BBB,Low,489,368,216,955,BBB,Medium
+hig,Hartford Financial Services Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,874766,B,Excellent,BBB,Low,BBB,Low,480,272,280,630,BB,High
+tel,TE Connectivity Ltd,USD,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,1385157,BBB,Excellent,BB,Medium,B,High,351,379,428,939,A,Medium
+tfx,Teleflex Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,96943,AA,High,BBB,Medium,BB,Medium,335,312,236,879,B,High
+tfc,Truist Financial Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Banking,92230,BBB,Medium,BB,Medium,C,Medium,575,359,315,652,B,High
+tdy,Teledyne Technologies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,1094285,BB,Medium,CCC,Excellent,BB,Medium,473,391,216,630,BB,Medium
+tgt,Target Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Retail,27419,B,Excellent,BB,High,BBB,High,278,330,330,937,B,High
+tjx,TJX Companies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Retail,109198,BBB,Medium,BBB,High,C,Low,321,304,318,609,B,High
+tpr,Tapestry Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Textiles Apparel and Luxury Goods,1116132,AA,Excellent,BB,Medium,BB,High,350,298,75,1068,A,Medium
+trv,Travelers Companies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,86312,BBB,Excellent,B,Excellent,BB,Low,438,248,288,705,BBB,High
+tmo,Thermo Fisher Scientific Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,97745,BB,Excellent,B,High,B,Low,308,301,75,980,BBB,Medium
+tt,Trane Technologies PLC,USD,"NEW YORK STOCK EXCHANGE, INC.",Building,1466258,AA,High,CCC,High,BB,Medium,335,300,400,817,BB,Medium
+tsn,Tyson Foods Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Food Products,100493,B,Excellent,BBB,Low,BB,Medium,219,300,325,1171,A,Medium
+tyl,Tyler Technologies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,860731,BBB,Medium,A,Low,C,High,646,348,338,1116,A,High
+txt,Textron Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,217346,BBB,High,A,Low,B,Low,365,160,315,1083,A,Medium
+unh,UnitedHealth Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,731766,B,Excellent,A,High,B,High,513,277,256,973,B,High
+ups,United Parcel Service Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Logistics and Transportation,1090727,AA,High,BB,High,B,Low,247,223,265,1148,BBB,High
+udr,UDR Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,74208,BB,High,BB,Low,C,High,455,317,280,1536,A,Medium
+uhs,Universal Health Services Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,352915,B,Excellent,CCC,High,B,High,298,206,355,811,BBB,Medium
+mos,Mosaic Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,1285785,BB,Excellent,BBB,High,BBB,High,472,353,321,1000,BB,Medium
+usb,US Bancorp,USD,"NEW YORK STOCK EXCHANGE, INC.",Banking,36104,BB,Medium,BBB,High,BB,Medium,492,206,370,949,A,Medium
+uri,United Rentals Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Trading Companies and Distributors,1067701,A,Medium,BB,Excellent,BBB,Low,200,323,303,636,BB,Medium
+vno,Vornado Realty Trust,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,899689,B,Excellent,A,Medium,BBB,High,367,365,208,1102,BBB,Medium
+vlo,Valero Energy Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,1035002,BBB,Excellent,CCC,Excellent,B,Medium,575,339,364,1159,A,Medium
+vfc,VF Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Textiles Apparel and Luxury Goods,103379,BBB,High,B,Medium,B,High,340,311,325,803,B,Medium
+v,Visa Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1403161,B,Excellent,AA,Low,BB,Low,438,348,250,1062,B,High
+vtr,Ventas Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,740260,AA,High,AA,Low,BB,High,410,203,348,809,B,High
+vmc,Vulcan Materials Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Construction,1396009,A,High,B,Excellent,C,Low,264,366,290,650,BB,High
+wec,WEC Energy Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,783325,A,High,A,High,BBB,High,568,403,250,1218,BBB,High
+well,Welltower OP LLC,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,766704,A,Excellent,CCC,Low,B,High,475,285,223,739,BB,High
+wat,Waters Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,1000697,BBB,Medium,B,High,C,Low,613,289,475,903,BB,High
+wm,Waste Management Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Commercial Services and Supplies,823768,BBB,Medium,A,Medium,C,High,231,273,341,989,B,High
+wab,Westinghouse Air Brake Technologies Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Machinery,943452,A,Excellent,BBB,Low,BB,Low,415,352,364,1078,BBB,High
+wmb,Williams Companies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,107263,A,High,BB,Excellent,BB,High,694,246,233,1268,BB,Medium
+wfc,Wells Fargo & Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Banking,72971,A,Medium,CCC,Medium,C,High,342,235,345,1144,B,Medium
+whr,Whirlpool Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,106640,B,High,AA,Medium,C,Medium,542,258,261,803,BB,Medium
+wst,West Pharmaceutical Services Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,105770,B,High,AA,High,BBB,High,490,268,256,622,BBB,Medium
+wrb,W R Berkley Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,11544,BB,Excellent,AA,Low,BBB,High,305,318,313,659,BB,High
+wmt,Walmart Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Retail,104169,BBB,Medium,AA,High,C,Medium,547,438,233,1215,BBB,High
+wu,Western Union Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1365135,BB,Medium,BBB,Medium,BB,Low,467,296,270,1276,B,Medium
+yum,Yum! Brands Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,1041061,B,Medium,BBB,Excellent,BB,Low,345,289,358,751,BBB,High
+xyl,Xylem Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Machinery,1524472,B,Medium,B,High,C,Low,203,275,335,1122,A,High
+wy,Weyerhaeuser Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,106535,BBB,Medium,BB,Medium,C,Low,218,349,428,667,A,Medium
+wrk,Westrock Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Packaging,1732845,BBB,High,CCC,Excellent,BB,Medium,336,250,220,1110,B,Medium
+xom,Exxon Mobil Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,34088,BBB,Excellent,CCC,Excellent,C,High,555,242,347,1015,BB,Medium
+zbh,Zimmer Biomet Holdings Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,1136869,B,Excellent,AA,Low,B,Low,390,280,400,1099,BBB,Medium
+zts,Zoetis Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,1555280,BBB,High,AA,Medium,B,Low,409,260,221,1007,BB,Medium
+de,Deere & Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Machinery,315189,A,Medium,B,High,BBB,High,579,349,385,1157,BB,High
+dd,Dupont De Nemours Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,1666700,A,Medium,A,Low,BBB,Medium,629,222,303,975,B,Medium
+d,Dominion Energy Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,715957,BBB,Excellent,B,Medium,C,High,408,331,318,727,B,High
+cvs,CVS Health Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,64803,B,Medium,CCC,Excellent,C,High,438,226,210,600,BBB,Medium
+dal,Delta Air Lines Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Airlines,27904,A,High,A,Low,C,Low,374,281,261,1154,A,Medium
+crm,Salesforce Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1108524,AA,Medium,B,Low,B,High,295,333,220,1132,B,Medium
+cvx,Chevron Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,93410,BB,Excellent,CCC,Low,B,High,313,234,311,623,BB,Medium
+ctva,Corteva Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,1755672,BB,Medium,BBB,High,BBB,Low,545,341,294,1182,BBB,Medium
+ctra,Coterra Energy Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,858470,B,Medium,BBB,Excellent,BBB,Medium,580,348,277,1170,BBB,High
+ctlt,Catalent Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,1596783,B,High,B,Medium,BBB,Medium,668,248,375,690,A,Medium
+cpb,Campbell Soup Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Food Products,16732,BBB,High,CCC,Low,BBB,Medium,522,348,316,1192,B,Medium
+crl,Charles River Laboratories International Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,1100682,A,Medium,B,Low,C,High,308,400,75,1180,A,Medium
+cop,Conocophillips,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,1163165,A,Medium,CCC,Low,B,Low,298,299,341,635,BBB,Medium
+coo,Cooper Companies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,711404,BB,Medium,B,Medium,C,Low,519,160,75,967,B,High
+cof,Capital One Financial Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,927628,A,Excellent,B,High,B,High,409,242,340,1145,B,High
+cnc,Centene Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,1071739,A,High,AA,Excellent,BB,Low,377,335,223,618,B,High
+cnp,CenterPoint Energy Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,1130310,B,Excellent,B,Medium,BBB,High,448,332,340,1123,BBB,Medium
+cms,CMS Energy Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,811156,BB,High,BB,High,BB,Low,515,223,256,617,BBB,High
+cmi,Cummins Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Machinery,26172,AA,Medium,BBB,Excellent,C,High,694,261,341,1141,BBB,Medium
+cl,Colgate-Palmolive Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,21665,B,Excellent,A,Excellent,B,Medium,450,318,341,792,B,Medium
+mmm,3M Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Industrial Conglomerates,66740,BBB,High,BB,Low,BB,High,545,330,320,928,A,Medium
+cfg,Citizens Financial Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Banking,759944,AA,High,A,Medium,BBB,Medium,210,308,305,637,A,Medium
+cag,Conagra Brands Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Food Products,23217,A,Excellent,AA,High,BBB,High,307,360,365,1409,BBB,Medium
+ci,Cigna Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,1739940,BBB,Medium,AA,Medium,BB,Medium,220,288,210,851,B,Medium
+cah,Cardinal Health Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,721371,A,Medium,B,High,BBB,High,345,224,320,1194,BB,Medium
+ma,Mastercard Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1141391,AA,Medium,B,Medium,BBB,Medium,562,443,364,955,BB,Medium
+lw,Lamb Weston Holdings Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Food Products,1679273,BBB,High,A,Medium,C,Low,270,330,320,922,B,High
+maa,Mid-America Apartment Communities Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,912595,B,Medium,BB,High,BB,Medium,202,320,248,1195,A,Medium
+mlm,Martin Marietta Materials Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Construction,916076,A,Excellent,B,High,B,Low,576,261,261,1062,A,Medium
+luv,Southwest Airlines Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Airlines,92380,AA,Medium,CCC,Low,BB,High,490,422,213,1116,BB,High
+lnc,Lincoln National Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,59558,AA,Excellent,AA,Medium,BBB,High,485,234,308,1173,B,Medium
+len,Lennar Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,920760,BBB,Medium,CCC,Low,B,High,217,360,300,824,BB,High
+pg,Procter & Gamble Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,80424,B,Excellent,CCC,High,BB,Low,604,301,475,649,BB,High
+ogn,Organon & Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,1821825,AA,Medium,AA,Excellent,B,High,472,263,221,843,B,High
+oxy,Occidental Petroleum Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,797468,AA,Excellent,BBB,Excellent,C,Medium,351,213,370,1090,A,Medium
+dell,Dell Technologies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1571996,A,Excellent,B,Low,BBB,High,358,315,233,1280,A,Medium
+payc,Paycom Software Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1590955,BBB,Medium,B,Excellent,BBB,Medium,572,219,340,745,BB,High
+peg,Public Service Enterprise Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,788784,A,Excellent,A,Medium,BB,Low,480,297,75,1244,BB,Medium
+oke,ONEOK Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,1039684,AA,Medium,AA,Low,B,Medium,433,297,237,715,A,Medium
+nrg,NRG Energy Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,1013871,B,Excellent,A,Low,BBB,High,483,252,460,744,BBB,Medium
+l,Loews Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,60086,B,Medium,B,Low,B,Low,448,379,225,1075,B,Medium
+omc,Omnicom Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Media,29989,B,Excellent,B,Medium,C,High,578,334,285,1137,BB,High
+orcl,Oracle Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1341439,BB,Excellent,B,Medium,BB,Low,522,359,205,1216,BBB,Medium
+o,Realty Income Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,726728,BB,Excellent,AA,High,C,Medium,350,667,313,919,B,Medium
+dpz,Domino's Pizza Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,1286681,BB,Excellent,BBB,Low,BB,Low,451,300,313,659,B,Medium
+t,AT&T Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Telecommunication,732717,AA,High,BBB,Excellent,BB,Low,368,300,255,1160,BBB,Medium
+unp,Union Pacific Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Road and Rail,100885,BB,High,CCC,High,BB,Medium,629,310,341,817,BB,High
+nem,Newmont Corporation,USD,"NEW YORK STOCK EXCHANGE, INC.",Metals and Mining,1164727,AA,Medium,CCC,Low,B,Low,260,223,240,773,BB,Medium
+fdx,FedEx Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Logistics and Transportation,1048911,A,Medium,BBB,Excellent,BBB,High,562,248,215,885,A,Medium
+nke,Nike Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Textiles Apparel and Luxury Goods,320187,AA,Excellent,AA,High,BB,Medium,251,318,288,635,BB,High
+f,Ford Motor Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Automobiles,37996,B,Excellent,CCC,Medium,BB,Low,580,350,321,936,A,Medium
+lmt,Lockheed Martin Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,936468,AA,High,A,Medium,BB,High,353,231,400,1348,BB,Medium
+rsg,Republic Services Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Commercial Services and Supplies,1060391,B,High,AA,Low,BB,Medium,238,320,223,1058,B,Medium
+enph,Enphase Energy Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,1463101,BB,Medium,AA,High,BBB,High,371,348,290,933,BBB,High
+exc,Exelon Corp,USD,NASDAQ NMS - GLOBAL MARKET,Utilities,1109357,A,Excellent,BBB,Low,C,Medium,534,264,233,802,BBB,Medium
+expd,Expeditors International of Washington Inc,USD,NASDAQ NMS - GLOBAL MARKET,Logistics and Transportation,746515,BB,Medium,A,Medium,C,Low,470,299,277,658,B,High
+expe,Expedia Group Inc,USD,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,1324424,B,High,CCC,High,C,Low,605,309,364,826,A,Medium
+fast,Fastenal Co,USD,NASDAQ NMS - GLOBAL MARKET,Trading Companies and Distributors,815556,BB,Medium,BB,High,B,High,336,308,277,1218,BBB,Medium
+ffiv,F5 Inc,USD,NASDAQ NMS - GLOBAL MARKET,Communications,1048695,BB,High,AA,High,BBB,Medium,245,201,203,1244,BB,Medium
+fisv,Fiserv Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,798354,B,Medium,B,High,BB,Low,340,355,257,1276,BBB,Medium
+eqix,Equinix Inc,USD,NASDAQ NMS - GLOBAL MARKET,Real Estate,1101239,B,Excellent,CCC,Medium,BBB,High,565,342,290,636,A,High
+ftnt,Fortinet Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1262039,BBB,Excellent,CCC,Low,BBB,Medium,230,209,225,608,A,High
+etsy,ETSY Inc,USD,NASDAQ NMS - GLOBAL MARKET,Retail,1370637,BB,High,BB,High,BB,Medium,604,223,318,1047,BB,High
+ben,Franklin Resources Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,38777,B,Excellent,CCC,Low,B,High,336,330,385,914,A,High
+dlr,Digital Realty Trust Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1297996,A,Medium,BB,Excellent,BBB,Medium,542,275,240,1161,BB,Medium
+dhr,Danaher Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,313616,A,Excellent,A,Medium,BB,Low,360,305,365,1396,B,High
+efx,Equifax Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Professional Services,33185,BB,Medium,BBB,High,BB,High,353,399,350,1077,B,High
+el,Estee Lauder Companies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,1001250,BB,High,B,High,C,High,480,278,298,765,B,Medium
+emn,Eastman Chemical Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,915389,B,Medium,B,Low,B,High,235,334,341,834,A,Medium
+emr,Emerson Electric Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,32604,AA,High,BB,High,BB,High,558,350,310,993,B,Medium
+eog,EOG Resources Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,821189,BBB,High,B,Low,BBB,High,454,212,248,1155,BB,High
+eqr,Equity Residential,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,906107,B,Medium,CCC,Excellent,B,Low,583,276,267,1152,BBB,High
+es,Eversource Energy,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,72741,AA,Excellent,B,High,C,Medium,629,328,320,1207,B,Medium
+ess,Essex Property Trust Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,920522,AA,Medium,B,High,BB,Medium,578,235,248,847,BBB,Medium
+fitb,Fifth Third Bancorp,USD,NASDAQ NMS - GLOBAL MARKET,Banking,35527,AA,Excellent,B,Excellent,B,Low,371,346,250,931,BB,High
+etr,Entergy Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,65984,B,Medium,AA,Medium,BB,Low,646,212,321,706,A,Medium
+exr,Extra Space Storage Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1289490,A,High,AA,Low,BB,High,375,252,218,788,B,Medium
+ew,Edwards Lifesciences Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,1099800,BB,Medium,A,Medium,B,Low,610,335,338,817,BBB,Medium
+foxa,Fox Corp,USD,NASDAQ NMS - GLOBAL MARKET,Media,1754301,BBB,Excellent,A,Excellent,BB,Low,292,379,200,775,BB,Medium
+fcx,Freeport-McMoRan Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Metals and Mining,831259,AA,High,A,Medium,C,Low,374,332,260,1150,BBB,Medium
+fe,FirstEnergy Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,1031296,AA,Medium,BBB,Excellent,C,High,459,306,280,646,BBB,High
+flt,Fleetcor Technologies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1175454,B,Medium,BB,High,B,Low,363,272,213,1083,BB,Medium
+fis,Fidelity National Information Services Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1136893,B,Medium,BB,High,BB,Medium,555,238,460,1239,B,High
+frc,First Republic Bank,USD,"NEW YORK STOCK EXCHANGE, INC.",Banking,1132979,BBB,Medium,BB,Medium,BB,High,435,212,75,1145,B,Medium
+fmc,FMC Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,37785,A,Medium,CCC,High,BB,Low,485,346,275,821,A,Medium
+frt,Federal Realty Investment Trust,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,34903,AA,Medium,B,Low,B,High,558,368,321,949,BB,Medium
+ftv,Fortive Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Machinery,1659166,A,Medium,BBB,High,BB,Low,240,265,261,664,A,High
+gps,Gap Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Retail,39911,A,Excellent,A,Low,B,Medium,540,355,220,758,BBB,Medium
+grmn,Garmin Ltd,USD,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,1121788,B,Excellent,CCC,Excellent,C,Low,675,262,300,1181,BBB,Medium
+it,Gartner Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,749251,BB,Excellent,A,Excellent,BB,Medium,503,263,355,619,BBB,Medium
+lly,Eli Lilly and Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,59478,B,Medium,BBB,Low,B,Medium,583,285,277,856,B,Medium
+re,Everest Re Group Ltd,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,1095073,AA,High,BBB,High,B,Low,570,231,226,1115,BB,High
+evrg,Evergy Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,1711269,A,High,AA,High,BB,High,408,408,460,840,BBB,High
+fbhs,Fortune Brands Home & Security Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Building,1519751,BB,Excellent,CCC,Excellent,B,High,527,201,340,1083,BB,Medium
+gild,Gilead Sciences Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,882095,BBB,Medium,BB,Excellent,B,Medium,607,225,275,777,A,Medium
+holx,Hologic Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,859737,BB,High,CCC,Low,B,Medium,583,313,311,747,A,High
+hsic,Henry Schein Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1000228,AA,High,CCC,High,BB,High,719,515,375,1102,BB,Medium
+hon,Honeywell International Inc,USD,NASDAQ NMS - GLOBAL MARKET,Industrial Conglomerates,773840,AA,High,BBB,Low,B,High,589,366,208,1018,A,Medium
+hst,Host Hotels & Resorts Inc,USD,NASDAQ NMS - GLOBAL MARKET,Real Estate,1070750,B,Medium,BBB,Medium,BBB,Medium,519,362,475,1197,A,High
+gd,General Dynamics Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,40533,AA,Medium,CCC,High,B,Low,264,570,364,773,BBB,Medium
+has,Hasbro Inc,USD,NASDAQ NMS - GLOBAL MARKET,Leisure Products,46080,AA,Medium,B,High,B,High,532,544,260,1208,BB,High
+hban,Huntington Bancshares Inc,USD,NASDAQ NMS - GLOBAL MARKET,Banking,49196,AA,Excellent,B,Excellent,C,Medium,217,306,311,695,BB,High
+gl,Globe Life Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,320335,A,Medium,BB,Low,BBB,High,298,209,460,785,A,Medium
+gpc,Genuine Parts Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Distributors,40987,BBB,Medium,B,Low,BB,Medium,325,272,330,1063,A,Medium
+gnrc,Generac Holdings Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,1474735,AA,Excellent,A,Medium,BB,High,418,234,355,1183,A,High
+gpn,Global Payments Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1123360,BB,Excellent,CCC,High,B,High,280,268,313,1282,B,High
+hca,HCA Healthcare Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,860730,AA,Excellent,BBB,Medium,B,High,238,253,355,1408,BBB,High
+hbi,HanesBrands Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Textiles Apparel and Luxury Goods,1359841,BB,Excellent,B,Medium,C,High,520,209,460,696,A,Medium
+hii,Huntington Ingalls Industries Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,1501585,A,High,A,Excellent,C,Medium,490,354,311,685,A,High
+hpe,Hewlett Packard Enterprise Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1645590,BBB,High,BB,High,B,Low,345,389,259,1200,BB,Medium
+hes,Hess Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy,4447,BBB,Excellent,CCC,Excellent,BBB,Low,271,313,260,1126,B,Medium
+hlt,Hilton Worldwide Holdings Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,1585689,A,Medium,BB,Medium,BBB,Medium,635,258,230,1063,B,High
+hrl,Hormel Foods Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Food Products,48465,B,Medium,AA,Excellent,C,High,668,211,370,942,BBB,High
+hpq,HP Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,47217,BB,High,A,Medium,C,Low,329,218,257,1180,B,High
+hum,Humana Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,49071,AA,High,B,High,C,High,396,344,315,1148,BB,Medium
+hwm,Howmet Aerospace Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,4281,AA,High,A,High,BBB,High,583,408,303,856,B,High
+peak,Healthpeak Properties Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,765880,A,Excellent,CCC,Low,B,Low,583,299,341,828,BB,High
+gis,General Mills Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Food Products,40704,A,High,AA,Excellent,C,Low,572,570,460,1169,BBB,Medium
+ge,General Electric Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Industrial Conglomerates,40545,AA,Medium,BB,High,BB,Low,222,330,203,1274,BB,Medium
+spot,Spotify Technology SA,EUR,"NEW YORK STOCK EXCHANGE, INC.",Media,1639920,B,High,BBB,High,B,Medium,368,326,285,1081,BB,Medium
+trtn,Triton International Ltd,USD,"NEW YORK STOCK EXCHANGE, INC.",Trading Companies and Distributors,1660734,B,Excellent,BBB,Low,BB,Medium,505,438,236,746,BB,Medium
+trtx,TPG RE Finance Trust Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1630472,A,Medium,A,Low,BBB,High,605,217,305,1281,A,High
+tru,TransUnion,USD,"NEW YORK STOCK EXCHANGE, INC.",Professional Services,1552033,AA,Excellent,BB,Excellent,BBB,High,448,316,260,615,BBB,Medium
+yeti,Yeti Holdings Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Leisure Products,1670592,AA,High,AA,Excellent,BB,Low,477,379,333,1413,B,High
+yelp,Yelp Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Media,1345016,A,Excellent,B,Excellent,BBB,Low,517,390,305,928,B,Medium
+yext,Yext Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1614178,AA,Medium,AA,Low,BB,Low,509,248,285,880,B,High
+spr,Spirit AeroSystems Holdings Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,1364885,AA,High,BBB,High,BB,Low,365,315,200,642,A,Medium
+ysg,Yatsen Holding Ltd,CNY,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,1819580,AA,High,BBB,Medium,B,Medium,510,386,223,752,BBB,Medium
+yrd,Yiren Digital Ltd,CNY,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,1631761,AA,Medium,BB,High,B,High,377,332,257,871,B,Medium
+yumc,Yum China Holdings Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,1673358,B,Excellent,AA,Excellent,C,Medium,250,219,345,947,B,Medium
+trox,Tronox Holdings PLC,USD,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,1530804,A,High,BB,Medium,B,High,221,206,333,989,BBB,Medium
+zepp,Zepp Health Corp,CNY,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,1720446,A,Medium,BB,High,C,High,473,347,233,652,A,High
+zev,Lightning eMotors Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Machinery,1802749,BB,High,BBB,Medium,B,High,581,287,341,945,BB,Medium
+zuo,Zuora Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1423774,AA,High,BBB,Excellent,C,High,545,269,330,1052,BB,High
+zim,ZIM Integrated Shipping Services Ltd,USD,"NEW YORK STOCK EXCHANGE, INC.",Marine,1654126,AA,High,B,Excellent,BBB,Medium,219,283,288,745,BBB,High
+zyme,Zymeworks Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Biotechnology,1403752,B,Excellent,AA,Low,BBB,Medium,330,354,270,827,B,High
+zws,Zurn Elkay Water Solutions Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Building,1439288,B,Medium,CCC,High,C,Low,371,210,230,810,BB,High
+you,Clear Secure Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1856314,BBB,Medium,BB,Low,B,Low,505,362,213,1295,BBB,Medium
+zen,Zendesk Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1463172,BBB,Excellent,BB,Low,BB,Low,508,258,225,922,BB,High
+plxs,Plexus Corp,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,785786,BBB,Excellent,CCC,Low,BBB,Medium,255,234,318,685,BB,Medium
+ship,Seanergy Maritime Holdings Corp,USD,NASDAQ NMS - GLOBAL MARKET,Marine,1448397,BB,Excellent,BBB,Low,C,Low,646,328,325,847,A,Medium
+shls,Shoals Technologies Group Inc,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,1831651,AA,Medium,BBB,Low,B,Medium,247,320,218,880,BB,Medium
+shoo,Steven Madden Ltd,USD,NASDAQ NMS - GLOBAL MARKET,Textiles Apparel and Luxury Goods,913241,B,Medium,A,Low,BB,High,275,294,245,922,BBB,High
+shyf,Shyft Group Inc,USD,NASDAQ NMS - GLOBAL MARKET,Machinery,743238,B,High,AA,Low,BB,Medium,540,314,305,1125,BBB,High
+sibn,SI-BONE Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1459839,AA,High,AA,High,BB,Medium,260,160,340,871,BB,High
+sieb,Siebert Financial Corp,USD,NASDAQ NMS - GLOBAL MARKET,Financial Services,65596,A,High,BBB,High,C,High,242,384,375,609,BBB,Medium
+plya,Playa Hotels & Resorts NV,USD,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,1692412,A,High,AA,Excellent,B,High,576,214,335,691,BB,Medium
+wwe,World Wrestling Entertainment Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Media,1091907,A,Medium,BBB,Medium,C,High,400,224,290,993,A,High
+pmcb,PharmaCyte Biotech Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1157075,BB,High,BB,Medium,BBB,Medium,534,300,265,734,BB,Medium
+www,Wolverine World Wide Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Textiles Apparel and Luxury Goods,110471,BBB,Medium,AA,Excellent,B,High,569,385,285,886,B,High
+xhr,Xenia Hotels & Resorts Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1616000,BBB,Excellent,BBB,Medium,BBB,Low,430,272,333,1005,BBB,Medium
+x,United States Steel Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Metals and Mining,1163302,BBB,Excellent,BB,Medium,BB,High,264,234,294,697,BBB,Medium
+xpev,Xpeng Inc,CNY,"NEW YORK STOCK EXCHANGE, INC.",Automobiles,1810997,BBB,Excellent,CCC,Medium,BBB,Low,217,204,215,650,B,Medium
+xpo,XPO Logistics Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Road and Rail,1166003,AA,Medium,CCC,Low,C,High,455,256,290,759,B,High
+xin,Xinyuan Real Estate Co Ltd,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1398453,AA,Medium,B,Low,B,Low,231,231,355,1244,B,High
+xl,XL Fleet Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Auto Components,1772720,BBB,Excellent,AA,Low,BB,Medium,578,244,310,1290,B,Medium
+xyf,X Financial,CNY,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,1725033,BBB,High,BB,High,BBB,Medium,438,223,75,628,A,Medium
+y,Alleghany Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,775368,B,Medium,BBB,High,BB,High,560,273,285,1340,A,High
+yala,Yalla Group Ltd,USD,"NEW YORK STOCK EXCHANGE, INC.",Media,1794350,BB,Medium,A,Excellent,B,High,405,208,240,686,B,Medium
+wts,Watts Water Technologies Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Machinery,795403,A,High,CCC,Excellent,BBB,Low,480,390,221,1104,BB,Medium
+sien,Sientra Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1551693,BB,Medium,BB,Medium,B,High,547,403,385,1255,BBB,High
+hain,Hain Celestial Group Inc,USD,NASDAQ NMS - GLOBAL MARKET,Food Products,910406,AA,Medium,A,Excellent,BBB,Low,507,313,240,1054,BBB,Medium
+mtc,MMTEC Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1742518,B,High,BB,High,BB,Low,532,330,233,797,BB,Medium
+mtcr,Metacrine Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1634379,BBB,Excellent,CCC,Excellent,B,Low,225,260,213,1245,BBB,High
+mtem,Molecular Templates Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1183765,A,Excellent,BB,Excellent,B,High,475,201,315,927,BBB,High
+mtls,Materialise NV,EUR,NASDAQ NMS - GLOBAL MARKET,Technology,1091223,BB,High,A,Medium,B,High,233,232,267,1062,BBB,Medium
+mtex,Mannatech Inc,USD,NASDAQ NMS - GLOBAL MARKET,Consumer products,1056358,BBB,Medium,AA,Medium,BBB,High,504,479,237,801,B,Medium
+mtrx,Matrix Service Co,USD,NASDAQ NMS - GLOBAL MARKET,Construction,866273,BB,High,B,Low,B,High,377,307,300,668,A,High
+halo,Halozyme Therapeutics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1159036,B,High,AA,Low,C,Low,719,409,428,1202,BB,High
+hall,Hallmark Financial Services Inc,USD,NASDAQ NMS - GLOBAL MARKET,Insurance,819913,AA,High,B,Excellent,BB,Low,430,303,270,1536,BBB,Medium
+mvbf,MVB Financial Corp,USD,NASDAQ NMS - GLOBAL MARKET,Banking,1277902,BBB,High,CCC,Medium,C,Medium,435,314,215,951,A,High
+mvst,Microvast Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Machinery,1760689,B,Medium,B,High,B,Low,510,315,236,947,BB,High
+mvis,MicroVision Inc,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,65770,BB,Medium,AA,High,B,Low,292,338,257,1412,A,Medium
+mxct,MaxCyte Inc,USD,NASDAQ NMS - GLOBAL MARKET,Life Sciences Tools and Services,1287098,BBB,Excellent,CCC,High,C,High,307,219,237,667,BBB,Medium
+mygn,Myriad Genetics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,899923,AA,High,BBB,Medium,BB,High,475,309,295,1205,A,Medium
+myfw,First Western Financial Inc,USD,NASDAQ NMS - GLOBAL MARKET,Banking,1327607,A,Medium,BBB,Medium,B,Medium,589,201,237,676,BB,High
+mxl,Maxlinear Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,1288469,A,High,BB,Excellent,BBB,High,507,225,310,604,BB,High
+mymd,MyMD Pharmaceuticals Inc,USD,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,1321834,B,Excellent,A,Excellent,BBB,Medium,451,314,321,1045,BB,Medium
+myps,Playstudios Inc,USD,NASDAQ NMS - GLOBAL MARKET,Media,1823878,B,High,A,Medium,C,Low,467,312,278,1396,BBB,Medium
+mttr,Matterport Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1819394,BB,High,B,Excellent,C,Low,380,282,256,674,BBB,High
+mtsi,MACOM Technology Solutions Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,1493594,B,Medium,BBB,Low,BB,High,377,268,267,818,A,Medium
+clro,Clearone Inc,USD,NASDAQ NMS - GLOBAL MARKET,Communications,840715,AA,High,B,Low,B,Low,568,311,203,940,A,Medium
+clsn,Celsion Corp,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,749647,BBB,Medium,AA,Excellent,BB,Low,629,394,277,1433,A,High
+gure,Gulf Resources Inc,USD,NASDAQ NMS - GLOBAL MARKET,Chemicals,885462,A,Excellent,CCC,Low,BB,Low,265,272,203,659,A,Medium
+gvp,GSE Systems Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,944480,B,Medium,BB,Excellent,C,High,470,297,218,774,BBB,High
+gyro,Gyrodyne LLC,USD,NASDAQ NMS - GLOBAL MARKET,Real Estate,1589061,A,High,BB,High,BBB,Low,293,324,365,1160,BB,High
+gwrs,Global Water Resources Inc,USD,NASDAQ NMS - GLOBAL MARKET,Utilities,1434728,B,High,BBB,High,C,High,215,372,200,950,A,High
+ha,Hawaiian Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Airlines,1172222,B,High,CCC,Medium,BBB,Medium,217,303,277,847,BBB,Medium
+clsk,CleanSpark Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,827876,BB,Excellent,AA,Medium,C,High,264,160,303,640,A,Medium
+clsd,Clearside Biomedical Inc,USD,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,1539029,B,High,B,Low,C,Medium,365,300,259,944,BB,High
+haac,Health Assurance Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,1824013,BB,Medium,CCC,Low,B,High,346,238,315,820,A,Medium
+hafc,Hanmi Financial Corp,USD,NASDAQ NMS - GLOBAL MARKET,Banking,1109242,A,High,A,High,BB,Medium,580,204,256,1186,BB,Medium
+clst,Catalyst Bancorp Inc,USD,NASDAQ NMS - GLOBAL MARKET,Financial Services,1849867,BBB,Excellent,B,Low,BB,Low,330,283,365,971,A,High
+clwt,Euro Tech Holdings Company Ltd,USD,NASDAQ NMS - GLOBAL MARKET,Trading Companies and Distributors,1026662,A,Excellent,CCC,Low,B,Medium,545,281,240,1038,A,High
+clxt,Calyxt Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1705843,BBB,High,CCC,High,BB,Low,380,350,285,1000,B,High
+cmbm,Cambium Networks Corp,USD,NASDAQ NMS - GLOBAL MARKET,Communications,1738177,BB,Excellent,BB,Low,BBB,Medium,405,317,221,885,A,High
+cmco,Columbus McKinnon Corp,USD,NASDAQ NMS - GLOBAL MARKET,Machinery,1005229,BB,Medium,CCC,High,BB,Medium,396,394,335,1093,BB,Medium
+evk,Ever-Glory International Group Inc,USD,NASDAQ NMS - GLOBAL MARKET,Textiles Apparel and Luxury Goods,943184,B,High,AA,Medium,BBB,Low,444,202,221,840,BBB,High
+clvs,Clovis Oncology Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1466301,AA,Excellent,CCC,Excellent,BB,High,562,325,385,674,BB,Medium
+clvr,Clever Leaves Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,1819615,A,Excellent,B,Low,BBB,Medium,477,340,303,649,BB,High
+happ,Happiness Development Group Ltd,USD,NASDAQ NMS - GLOBAL MARKET,Consumer products,1751876,AA,High,CCC,High,BBB,High,242,235,275,1102,BBB,High
+hbcp,Home Bancorp Inc,USD,NASDAQ NMS - GLOBAL MARKET,Financial Services,1436425,BB,High,B,Medium,C,High,390,263,460,936,BB,Medium
+hbio,Harvard Bioscience Inc,USD,NASDAQ NMS - GLOBAL MARKET,Life Sciences Tools and Services,1123494,AA,High,A,Medium,BB,High,222,544,341,1170,B,Medium
+hbnc,Horizon Bancorp Inc,USD,NASDAQ NMS - GLOBAL MARKET,Banking,706129,B,Medium,CCC,Medium,BB,Medium,260,211,275,980,A,High
+hbt,HBT Financial Inc,USD,NASDAQ NMS - GLOBAL MARKET,Banking,775215,A,Excellent,AA,Medium,B,Low,517,265,350,715,BB,Medium
+hcat,Health Catalyst Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1636422,BB,Medium,AA,Low,C,Low,572,363,205,1243,BB,High
+hcar,Healthcare Services Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,1824846,B,Excellent,CCC,Medium,BB,Low,522,316,305,707,B,Medium
+harp,Harpoon Therapeutics Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1708493,A,High,BB,Excellent,BBB,Low,305,366,375,1178,A,Medium
+hayn,Haynes International Inc,USD,NASDAQ NMS - GLOBAL MARKET,Metals and Mining,858655,BBB,Medium,AA,Excellent,BBB,Medium,527,390,295,1018,A,Medium
+pnbk,Patriot National Bancorp Inc,USD,NASDAQ NMS - GLOBAL MARKET,Banking,1098146,B,High,CCC,Medium,C,Low,382,318,277,609,A,High
+hcdi,Harbor Custom Development Inc,USD,NASDAQ NMS - GLOBAL MARKET,Consumer products,1784567,B,Excellent,B,Low,BBB,Low,459,260,364,1095,BBB,Medium
+hcci,Heritage-Crystal Clean Inc,USD,NASDAQ NMS - GLOBAL MARKET,Commercial Services and Supplies,1403431,A,Medium,BB,Medium,C,Low,548,253,340,980,BB,High
+pnfp,Pinnacle Financial Partners Inc,USD,NASDAQ NMS - GLOBAL MARKET,Banking,1115055,A,High,B,Low,BB,Low,262,310,221,1282,BBB,Medium
+pnt,POINT Biopharma Global Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1811764,AA,Medium,BBB,High,C,Medium,323,278,277,1103,B,High
+poai,Predictive Oncology Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1446159,A,Excellent,BB,Medium,B,Low,576,239,270,1244,BB,Medium
+pola,Polar Power Inc,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,1622345,B,High,AA,Low,C,Medium,715,303,221,1256,B,High
+podd,Insulet Corp,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1145197,AA,High,BBB,High,B,Medium,202,311,315,1274,A,High
+powi,Power Integrations Inc,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,833640,BB,Excellent,BBB,High,C,High,525,338,275,716,B,High
+poww,Ammo Inc,USD,NASDAQ NMS - GLOBAL MARKET,Leisure Products,1015383,B,Excellent,B,Excellent,BB,Medium,495,331,313,743,A,High
+pnrg,Primeenergy Resources Corp,USD,NASDAQ NMS - GLOBAL MARKET,Energy,56868,BBB,Medium,BBB,Medium,B,Medium,545,241,261,712,A,High
+pntg,Pennant Group Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1766400,BB,High,BB,Low,BBB,Medium,568,358,220,1022,A,Medium
+ppbi,Pacific Premier Bancorp Inc,USD,NASDAQ NMS - GLOBAL MARKET,Banking,1028918,AA,High,BB,High,C,High,280,438,235,1216,B,High
+ppih,Perma-Pipe International Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Machinery,914122,AA,High,B,Medium,BBB,Medium,485,334,295,1130,BB,Medium
+ppc,Pilgrims Pride Corp,USD,NASDAQ NMS - GLOBAL MARKET,Food Products,802481,A,High,BB,High,BB,Low,537,442,300,649,BBB,High
+praa,PRA Group Inc,USD,NASDAQ NMS - GLOBAL MARKET,Financial Services,1185348,BB,High,B,Excellent,BBB,High,358,322,428,1175,BBB,High
+ppsi,Pioneer Power Solutions Inc,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,1449792,BBB,High,A,Medium,B,High,532,200,305,1176,A,High
+prax,Praxis Precision Medicines Inc,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1689548,A,Excellent,A,High,C,High,475,231,230,657,B,High
+prct,Procept Biorobotics Corp,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1588978,AA,High,BB,High,BB,High,472,217,340,1090,BB,High
+prch,Porch Group Inc,USD,NASDAQ NMS - GLOBAL MARKET,Retail,1784535,AA,High,A,Excellent,BBB,Medium,668,327,328,1218,A,High
+pre,Artisan Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,1876431,BBB,Excellent,BBB,Low,C,High,580,311,218,953,B,High
+prdo,Perdoceo Education Corp,USD,NASDAQ NMS - GLOBAL MARKET,Diversified Consumer Services,1046568,A,Excellent,A,Medium,BB,Low,315,258,303,933,A,High
+sisi,Shineco Inc,USD,NASDAQ NMS - GLOBAL MARKET,Consumer products,1300734,B,Medium,AA,High,BB,High,694,282,256,1130,B,High
+sitm,SiTime Corp,USD,NASDAQ NMS - GLOBAL MARKET,Semiconductors,1451809,B,High,AA,Low,BB,Medium,448,423,235,680,B,High
+siri,Sirius XM Holdings Inc,USD,NASDAQ NMS - GLOBAL MARKET,Media,908937,B,Medium,BB,Low,B,Low,548,321,460,835,BBB,High
+sj,Scienjoy Holding Corp,CNY,NASDAQ NMS - GLOBAL MARKET,Media,1753673,AA,Medium,AA,High,BB,Medium,507,285,300,1086,A,High
+pow,Powered Brands,USD,NASDAQ NMS - GLOBAL MARKET,,1829427,BBB,Medium,A,Medium,B,Medium,560,206,340,818,BB,Medium
+powl,Powell Industries Inc,USD,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,80420,A,Medium,CCC,Medium,B,High,363,251,338,1175,BBB,High
+upwk,Upwork Inc,USD,NASDAQ NMS - GLOBAL MARKET,Professional Services,1627475,A,Excellent,B,Excellent,BB,Low,315,323,358,1088,B,Medium
+usak,USA Truck Inc,USD,NASDAQ NMS - GLOBAL MARKET,Road and Rail,883945,BB,Medium,AA,Low,C,High,235,391,261,824,BB,High
+usau,US Gold Corp,USD,NASDAQ NMS - GLOBAL MARKET,Metals and Mining,27093,BBB,Excellent,BB,Low,BB,Low,245,667,460,1215,B,High
+usap,Universal Stainless & Alloy Products Inc,USD,NASDAQ NMS - GLOBAL MARKET,Metals and Mining,931584,AA,Medium,AA,Medium,B,Medium,472,242,325,1174,A,Medium
+useg,US Energy Corp,USD,NASDAQ NMS - GLOBAL MARKET,Energy,101594,BB,Excellent,BB,Medium,BBB,Low,475,281,318,1100,BBB,Medium
+usio,Usio Inc,USD,NASDAQ NMS - GLOBAL MARKET,Technology,1088034,AA,Medium,BBB,Medium,B,Low,235,373,340,1287,B,Medium
+uthr,United Therapeutics Corp,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1082554,B,High,AA,High,C,Medium,576,404,288,1118,BBB,High
+urgn,Urogen Pharma Ltd,USD,NASDAQ NMS - GLOBAL MARKET,Biotechnology,1668243,A,Excellent,BB,Low,B,High,519,265,216,980,B,High
+urbn,Urban Outfitters Inc,USD,NASDAQ NMS - GLOBAL MARKET,Retail,912615,B,Excellent,BBB,Low,B,High,441,217,290,1260,A,Medium
+utme,Utime Ltd,CNY,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,1789299,AA,High,CCC,High,BB,Low,653,319,210,903,BBB,Medium
+utrs,Minerva Surgical Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,1452965,BB,Excellent,BB,Excellent,BBB,High,548,364,255,1153,A,Medium
+utsi,UTStarcom Holdings Corp,USD,NASDAQ NMS - GLOBAL MARKET,Communications,1030471,B,High,AA,High,BBB,Medium,264,223,475,604,B,High
+uxin,Uxin Ltd,CNY,NASDAQ NMS - GLOBAL MARKET,Retail,1729173,AA,High,B,Medium,BB,High,526,269,310,1002,BBB,High
+uvsp,Univest Financial Corp,USD,NASDAQ NMS - GLOBAL MARKET,Banking,102212,B,Excellent,CCC,Excellent,B,Medium,269,286,203,838,A,Medium
+cmcm,Cheetah Mobile Inc,CNY,"NEW YORK STOCK EXCHANGE, INC.",Technology,1597835,BB,Excellent,B,High,C,High,519,320,311,1292,B,High
+cmc,Commercial Metals Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Metals and Mining,22444,BBB,Excellent,CCC,High,BB,High,220,343,256,1280,B,High
+uslm,United States Lime & Minerals Inc,USD,NASDAQ NMS - GLOBAL MARKET,Construction,82020,BB,Excellent,AA,Medium,B,Low,363,289,203,897,A,High
+utmd,Utah Medical Products Inc,USD,NASDAQ NMS - GLOBAL MARKET,Health Care,706698,A,Excellent,CCC,High,C,High,475,277,261,1110,A,High
+cmp,Compass Minerals International Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Metals and Mining,1227654,BBB,Excellent,AA,Excellent,BBB,Low,331,314,348,660,B,Medium
+cnd,Concord Acquisition Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",,1824301,BBB,Medium,CCC,High,BBB,High,395,570,330,901,B,High
+cnf,CNFinance Holdings Ltd,CNY,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,1733868,B,Excellent,BB,High,C,Low,329,345,305,812,A,High
+cnmd,Conmed Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,816956,B,High,AA,Low,B,High,565,391,257,623,BB,Medium
+cnk,Cinemark Holdings Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Media,1385280,BB,Excellent,AA,High,BBB,Low,513,423,308,1340,B,High
+cnne,Cannae Holdings Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,1704720,BB,High,A,Excellent,BBB,High,205,363,256,615,BB,Medium
+cno,CNO Financial Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,1224608,B,Excellent,AA,Medium,C,Medium,581,515,230,751,B,High
+cna,CNA Financial Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,21175,B,Medium,A,High,BB,Medium,572,312,338,650,BBB,High
+cmre,Costamare Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Marine,1503584,B,High,BBB,High,C,Low,605,386,237,772,BB,High
+gva,Granite Construction Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Construction,861459,BB,Excellent,BB,Medium,B,High,607,237,221,1340,B,High
+fn,Fabrinet,USD,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,1408710,BBB,High,CCC,Medium,B,High,492,219,260,928,BBB,Medium
+h,Hyatt Hotels Corp,USD,"NEW YORK STOCK EXCHANGE, INC.","Hotels, Restaurants & Leisure",1468174,B,Medium,A,Medium,BBB,Low,220,353,341,1122,BB,Medium
+hasi,Hannon Armstrong Sustainable Infrastructure Capital Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1561894,AA,Excellent,BBB,Medium,BB,High,575,244,328,849,B,Medium
+hayw,Hayward Holdings Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Building,1834622,B,High,A,Medium,BBB,High,605,570,259,1002,BBB,High
+hbb,Hamilton Beach Brands Holding Co,USD,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,1709164,B,Medium,BBB,Low,BB,Low,558,303,277,610,BB,Medium
+hcc,Warrior Met Coal Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Metals & Mining,1691303,AA,Medium,CCC,High,BBB,Low,433,260,233,1227,BB,High
+hci,Hci Group Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Insurance,1400810,A,High,BB,Excellent,B,Low,675,212,347,856,BB,High
+he,Hawaiian Electric Industries Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Utilities,354707,BBB,Medium,CCC,Medium,BB,Medium,455,286,345,666,B,Medium
+gwre,Guidewire Software Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1528396,AA,Excellent,BBB,Low,B,Low,508,242,256,760,B,High
+hae,Haemonetics Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Health Care,313143,BB,High,A,Low,C,Medium,515,359,216,933,BBB,Medium
+hep,Holly Energy Partners LP,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy ,1283140,BBB,Excellent,B,High,BBB,Medium,467,203,250,1045,B,Medium
+hgv,Hilton Grand Vacations Inc,USD,"NEW YORK STOCK EXCHANGE, INC.","Hotels, Restaurants & Leisure",1674168,AA,High,CCC,Excellent,BB,Medium,492,315,230,1095,A,High
+hi,Hillenbrand Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Machinery,1417398,B,Medium,BBB,Medium,BBB,Low,205,347,310,835,BB,High
+hhc,Howard Hughes Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,1498828,A,Medium,BB,High,C,High,271,228,347,1136,BB,Medium
+hubs,HubSpot Inc,USD,"NEW YORK STOCK EXCHANGE, INC.",Technology,1404655,A,Medium,AA,Low,C,Low,250,253,270,1047,BB,Medium
+hesm,Hess Midstream LP,USD,"NEW YORK STOCK EXCHANGE, INC.",Energy ,1789832,A,Excellent,CCC,Medium,BB,Medium,202,334,300,1023,BBB,Medium
+hei,HEICO Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",Aerospace & Defense,46619,B,High,AA,Low,BBB,Low,270,361,328,643,BB,High
