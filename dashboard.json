@@ -3,7 +3,7 @@
         {
             "name": "temp_dataset_name",
             "displayName": "customers",
-            "query": "SELECT * placeholder_customer_table"
+            "query": "SELECT * FROM placeholder_customer_table"
         },
         {
             "name": "f7e37818",
